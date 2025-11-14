@@ -16,10 +16,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <p style='text-align: justify;'>
-Update: Starting September 2024, I will be at Stanford (with Prof Diyi Yang) as a visiting student working on using NLP for social good.
-</p>
-  
-<p style='text-align: justify;'> I am interested in building human-AI collaborative natural language processing models for social good. I am skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.</p>
+My research focuses on the practical use of AI to support human well-being. I approach this through three complementary directions:
 
-<p style='text-align: justify;'>I want to pursue a Ph.D. program with a focus on understanding the human behavioral alignment of language models and their impact on social decision-making. During my Master’s program at Georgia Tech, I have been fortunate to work on a variety of projects that use language processing for the betterment of online mental health platforms. This has equipped me with a strong foundation of computational social science methods along with a well-rounded experience of working with popular language processing algorithms. 
-  </p>
+(1) Technical methods for LLM safety, robustness, and control. I develop techniques such as effective unlearning to protect users, watermarking for authorship verification, and continual learning in real environments.
+
+(2) Using pre-trained language models (PLMs) as computational models of human cognition. I use PLMs to better understand human cognition; developing theoretically grounded linking hypotheses, modeling reasoning patterns, and evaluating when and why model behavior aligns with or diverges from human judgments and developmental trajectories. Recently, I have been exploring the developmental alignment of models (check out the BabyLM workshop: https://babylm.github.io/index.html).
+
+(3) Benchmarks and evaluation protocols for practical scenarios and contexts. I design domain-specific evaluations for mental health, social-media visualizations, global representations, clinical documentation, and financial language modeling. These evaluations expose where AI failures have real human consequences.
+
+Overall, my research collectively aims to work towards value-aligned use of AI through technical methods combined with effective evaluations.
+</p>
