@@ -58,9 +58,9 @@ max_width: 865px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: true      # enable nicer link previews on Slack/Twitter/etc.
-serve_schema_org: true   # basic schema.org for better SEO
-og_image: /assets/img/raj_og.png # create a simple banner/headshot image there
+serve_og_meta: false # Include Open Graph meta tags in the HTML head 
+serve_schema_org: false # Include Schema.org in the HTML head 
+og_image: true # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
