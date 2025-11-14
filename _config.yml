@@ -2,16 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hi, I am Raj! # the website title (if blank, full name will be used instead)
+title: Raj S. Shah # the website title (if blank, full name will be used instead)
 first_name: Raj
 middle_name: S.
 last_name: Shah
 email: rajsanjayshah@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-    Raj's Personal website.
+    PhD student in Interactive Computing at Georgia Tech.
 footer_text: >
+     © 2025 Raj S. Shah. All opinions are my own.
   
-keywords: NLP4SG, GaTech, GT, Human-Centered-Computing # add your own keywords or leave empty
+keywords: LLMs for cognition, human-AI collaboration, cognitive science, Georgia Tech, Stanford NLP
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: raj_emoji.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -57,9 +58,9 @@ max_width: 865px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: true # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true      # enable nicer link previews on Slack/Twitter/etc.
+serve_schema_org: true   # basic schema.org for better SEO
+og_image: /assets/img/raj_og.png # create a simple banner/headshot image there
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -70,7 +71,7 @@ gitlab_username: # your GitLab user name
 twitter_username: rajsanjayshah # your Twitter handle
 linkedin_username: raj-sanjay-shah # your LinkedIn user name
 scholar_userid: mpGOJ0gAAAAJ # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
+semanticscholar_id: 2051264008 # your Semantic Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -91,12 +92,12 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: Feel free to email me or call me anytime to set up a chat!
+Contact note: Feel free to email or call me anytime to set up a chat.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -106,9 +107,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Raj’s Notes # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description:  Thoughts on NLP, cognitive science, and human–AI collaboration.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -227,7 +228,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Shah]
-  first_name: [Raj Sanjay ]
+  first_name: [Raj Sanjay]
 
   style: apa
   locale: en
