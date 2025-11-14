@@ -6,7 +6,7 @@ subtitle: Ph.D. student at Interactive Computing, Georgia Tech.
 
 profile:
   align: right
-  image: IMG_3085.jpg
+  image: IMG_0664.jpg
   image_circular: false # crops the image to make it circular
 
 
