@@ -492,7 +492,12 @@ third_party_libraries:
   jquery:
     integrity:
       js: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
-    url:
+    url:# switch to master
+git checkout master
+
+# reset master to fresh-reset
+git reset --hard fresh-reset
+
       js: "https://cdn.jsdelivr.net/npm/jquery@{{version}}/dist/jquery.min.js"
     version: "3.6.0"
   leaflet:
