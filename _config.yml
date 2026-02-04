@@ -496,7 +496,7 @@ third_party_libraries:
 # reset master to fresh-reset
 # git reset --hard fresh-reset
 
-      js: "https://cdn.jsdelivr.net/npm/jquery@{{version}}/dist/jquery.min.js"
+      # js: "https://cdn.jsdelivr.net/npm/jquery@{{version}}/dist/jquery.min.js"
     version: "3.6.0"
   leaflet:
     integrity:
