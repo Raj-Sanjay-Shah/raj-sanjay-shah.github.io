@@ -52,7 +52,7 @@ semanticscholar_id: 2051264008 # your Semantic Scholar ID
 x_username: rajsanjayshah # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: /assets/img/IMG_0664.jpg # can be png, svg, jpg
-  title: Hey There!
-  url: raj-sanjay-shah.github.io
+# custom_social: # can be any name here other than the ones already defined above
+#   logo: /assets/img/IMG_0664.jpg # can be png, svg, jpg
+#   title: Hey There!
+#   url: raj-sanjay-shah.github.io
