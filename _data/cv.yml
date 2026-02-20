@@ -2,96 +2,123 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Raj Sanjay Shah
+    - name: Email
+      value: rajsanjayshah@gmail.com
+    - name: Website
+      value: https://raj-sanjay-shah.github.io
+    - name: Research Areas
+      value: LLM safety, cognitive modeling, AI for mental health
     - name: Languages
-      value: English, German
+      value: English (native), Hindi (native), Gujarati (native), Marathi (professional), Sanskrit (intermediate)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: Georgia Institute of Technology · Interactive Computing
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor — Prof. Sashank Varma
+        - Focus on LLM safety, developmental alignment, and AI copilots for well-being.
+    - title: Visiting Student Researcher
+      institution: Stanford University · SALT Lab
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Host — Prof. Diyi Yang
+        - Joint projects on counselor coaching systems and unlearning brittleness.
+    - title: MS in Computer Science (Machine Learning)
+      institution: Georgia Institute of Technology
+      year: 2021 - 2023
+      description:
+        - GPA 4.0 / 4.0
+        - Coursework in ML, NLP, and human-centered computing.
+    - title: BE in Computer Science + Minor in Data Science
+      institution: BITS Pilani, India
+      year: 2017 - 2021
+      description:
+        - CGPA 8.54 (Major), 9.8 (Minor)
+        - Graduated with institute best-paper honors in Information Retrieval.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Applied Scientist Intern II
+      institution: Amazon Science · Rufus
+      year: Summer 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Built clarification-driven dialogue summarization that detects missing info and auto-asks targeted questions.
+        - Reduced omission errors >25% across multi-domain transcripts.
+    - title: Applied Scientist Intern II
+      institution: Amazon Science · HealthScribe
+      year: Summer 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Evaluated LLM note generation for behavioral therapy progress notes.
+        - Delivered quality metrics now embedded in AWS HealthScribe workflows.
+    - title: Sr. Research Software Engineer (AI)
+      institution: IBM Research · Human-Centered AI
+      year: Summer 2023
       description:
+        - Ran user studies on calibrated human-AI collaboration for counseling support.
+        - Shipped full-stack tooling for real-time MI coaching experiments.
+    - title: Software Developer · ML Intern
+      institution: Epic Systems
+      year: Summer 2022
+      description:
+        - Modeled clinician workflows to surface relevant patient context in dashboards.
+    - title: Software Development Intern
+      institution: JPMorgan Chase & Co.
+      year: Jan 2021 - Jun 2021
+      description:
+        - Automated regression suites for the merchant onboarding platform.
+    - title: Research Intern
+      institution: Samsung R&D Institute India
+      year: Summer 2020
+      description:
+        - Built a bi-LSTM VAE to generate melodies/chords for the ringtone UX program.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Open Source & Community Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: BabyLM Challenge + Cognitive Batteries
+      year: 2023 - Present
+      description: Co-organizer of BabyLM workshops, released staged corpora, evaluation tooling, and dev-leaderboards.
+    - title: Counseling Copilot Suite
+      year: 2022 - Present
+      description: Open datasets + MI annotation guidelines powering LLM-based counselor practice sandboxes.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Georgia Tech President's Fellowship
+        - Marshall D. Williamson Fellowship (Honors Program)
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Donald V. Jackson Fellowship (Honors Program)
+        - LRN Foundation Student Travel Grant (EMNLP)
+    - year: 2021
+      items:
+        - BITS Pilani Best Paper Award — Information Retrieval
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: LLM Safety & Control
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Unlearning, watermarking, continual learning
+        - Stress-testing model behavior in applied settings
+    - title: Cognitive Alignment of PLMs
       items:
-        - Description 1.
-        - Description 2.
+        - Developmentally staged corpora
+        - Linking hypotheses between psych signatures and model activations
+    - title: AI for Mental Health Support
+      items:
+        - Counselor copilots and reflective practice
+        - Evaluation protocols for therapy documentation
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Long-form storytelling, running Atlanta’s beltline trails, mentoring undergraduate researchers.

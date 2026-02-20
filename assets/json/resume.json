@@ -1,200 +1,280 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Raj Sanjay Shah",
+    "label": "PhD Student · Interactive Computing, Georgia Tech",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rajsanjayshah@gmail.com",
+    "phone": "+1-628-280-9784",
+    "url": "https://raj-sanjay-shah.github.io/",
+    "summary": "PhD student working on LLM safety, evaluation, and human-centered NLP—spanning unlearning, watermarking, continual learning, and AI copilots for mental health.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "TSRB 228, 85 5th St NW",
+      "postalCode": "30332",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
+      "region": "Georgia"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "raj-sanjay-shah",
+        "url": "https://www.linkedin.com/in/raj-sanjay-shah"
+      },
+      {
+        "network": "GitHub",
+        "username": "Raj-Sanjay-Shah",
+        "url": "https://github.com/Raj-Sanjay-Shah"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Raj S. Shah",
+        "url": "https://scholar.google.com/citations?user=mpGOJ0gAAAAJ&hl=en"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Amazon Science (Rufus)",
+      "position": "Applied Scientist Intern II",
+      "url": "https://www.aboutamazon.com/news/innovation",
+      "startDate": "2025-05-01",
+      "endDate": "2025-08-01",
+      "summary": "Designed a clarification-driven summarization framework that detects missing information in clinical, legal, and customer support transcripts and generates targeted follow-up questions to improve accuracy.",
+      "highlights": [
+        "Reduced omission errors by >25% on internal dialogue corpora",
+        "Partnered with applied scientists to productionize within Amazon Rufus"
+      ]
+    },
+    {
+      "name": "Amazon Science · HealthScribe",
+      "position": "Applied Scientist Intern II",
+      "url": "https://aws.amazon.com/healthscribe/",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "summary": "Evaluated large language models for high-quality behavioral therapy progress note generation and delivered guardrails for AWS HealthScribe deployments.",
+      "highlights": [
+        "Built note-quality rubric covering safety, empathy, and factuality",
+        "Shipped evaluation harness now used by the product team"
+      ]
+    },
+    {
+      "name": "IBM Research · Human-Centered AI",
+      "position": "Senior Research Software Engineer (AI)",
+      "url": "https://research.ibm.com/",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Explored human-AI collaboration patterns for counselor support, built a full-stack study platform, and ran experiments on calibrated reliance.",
+      "highlights": [
+        "Ran large-scale user studies in partnership with clinical scientists",
+        "Open-sourced prompts + instrumentation for future studies"
+      ]
+    },
+    {
+      "name": "Epic Systems",
+      "position": "Software Developer · ML Intern",
+      "url": "https://www.epic.com/",
+      "startDate": "2022-05-01",
+      "endDate": "2022-08-01",
+      "summary": "Trained LLMs to anticipate clinician workflows and surface relevant patient context directly in provider dashboards.",
+      "highlights": [
+        "Cut retrieval latency by 40% via workflow-conditioned ranking",
+        "Contributed to internal tooling adopted by the Epic reporting team"
+      ]
+    },
+    {
+      "name": "JPMorgan Chase",
+      "position": "Software Development Intern",
+      "url": "https://www.jpmorganchase.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-01",
+      "summary": "Built automated testing scripts for the merchant onboarding platform and hardened Postman regression suites.",
+      "highlights": [
+        "Reduced manual QA time by 60%",
+        "Partnered with the merchant services team to deploy nightly checks"
+      ]
+    },
+    {
+      "name": "Samsung R&D Institute India",
+      "position": "Research Intern",
+      "url": "https://research.samsung.com/",
+      "startDate": "2020-05-01",
+      "endDate": "2020-06-01",
+      "summary": "Built a bi-directional LSTM variational autoencoder to generate melodies and chords for the UX ringtone project.",
+      "highlights": [
+        "Delivered a prototype melody generator used by the UX team"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Interactive Computing PhD Program",
+      "location": "Georgia Tech",
+      "position": "Student Ombudsperson",
+      "startDate": "2024-08-01",
+      "endDate": "2026-08-01",
+      "summary": "Serve as a confidential, neutral resource for PhD students navigating advisor, staff, or program concerns and mediate resolutions.",
+      "highlights": [
+        "Established escalation playbooks now referenced in orientation",
+        "Partnered with faculty to update program communication norms"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "url": "https://ic.gatech.edu/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-08-01",
+      "endDate": "",
+      "score": "4.0 / 4.0",
+      "courses": ["LLM Safety", "AI for Mental Health", "Developmental Cognition"],
+      "summary": "Advisor: Prof. Sashank Varma"
+    },
+    {
+      "institution": "Stanford University",
+      "location": "Stanford, CA",
+      "url": "https://www.stanford.edu/",
+      "area": "Computer Science",
+      "studyType": "Visiting Student Researcher",
+      "startDate": "2024-09-01",
+      "endDate": "2025-06-01",
+      "summary": "Advisor: Prof. Diyi Yang"
+    },
+    {
+      "institution": "Georgia Institute of Technology",
+      "location": "Atlanta, GA",
+      "url": "https://www.gatech.edu/",
+      "area": "Computer Science (Machine Learning)",
+      "studyType": "MS",
+      "startDate": "2021-08-01",
+      "endDate": "2023-05-01",
+      "score": "4.0 / 4.0"
+    },
+    {
+      "institution": "BITS Pilani",
+      "location": "Pilani, India",
+      "url": "https://www.bits-pilani.ac.in/",
+      "area": "Computer Science + Minor in Data Science",
+      "studyType": "BE",
+      "startDate": "2017-08-01",
+      "endDate": "2021-07-01",
+      "score": "8.54 / 10 (Major), 9.8 / 10 (Minor)"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Georgia Tech President's Fellowship",
+      "date": "2023-08-01",
+      "awarder": "Georgia Institute of Technology",
+      "summary": "Competitive doctoral fellowship recognizing academic excellence; $5,500 stipend per year for three years."
+    },
+    {
+      "title": "Marshall D. Williamson Fellowship",
+      "date": "2023-05-01",
+      "awarder": "Georgia Tech Honors Program",
+      "summary": "Awarded to a second-year MS student who exemplifies academic excellence and leadership."
+    },
+    {
+      "title": "Donald V. Jackson Fellowship",
+      "date": "2022-05-01",
+      "awarder": "Georgia Tech Honors Program",
+      "summary": "Recognizes first-year MS students demonstrating academic excellence and community leadership."
+    },
+    {
+      "title": "BITS Pilani Best Paper Award (Information Retrieval)",
+      "date": "2021-05-01",
+      "awarder": "BITS Pilani",
+      "summary": "Top undergraduate research paper in Information Retrieval."
+    },
+    {
+      "title": "LRN Foundation Student Travel Grant",
+      "date": "2022-12-01",
+      "awarder": "LRN Foundation",
+      "summary": "Travel support for presenting first-author work at EMNLP 2022."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
+      "publisher": "COLM",
+      "releaseDate": "2025-01-01",
+      "url": "https://openreview.net/forum?id=exW2SFJK4H",
+      "summary": "Dynamic probes + activation analysis that expose brittle unlearning pathways."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Development of Cognitive Intelligence in Pre-trained Language Models",
+      "publisher": "EMNLP",
+      "releaseDate": "2024-12-01",
+      "url": "https://arxiv.org/abs/2407.01047",
+      "summary": "Evaluates developmental alignment of PLMs via staged corpora and cognitive batteries."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Multi-Level Feedback Generation with LLMs for Novice Peer Counselors",
+      "publisher": "ACL",
+      "releaseDate": "2024-08-01",
+      "url": "https://arxiv.org/abs/2403.15482",
+      "summary": "Tiered coaching pipeline that improves peer counseling skills with LLM copilots."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "LLM Safety  26 Evaluation",
+      "level": "Expert",
+      "icon": "fa-solid fa-shield",
+      "keywords": ["Unlearning", "Watermarking", "Continual Learning", "Robust Evaluation"]
+    },
+    {
+      "name": "Human-Centered NLP",
+      "level": "Advanced",
+      "icon": "fa-solid fa-heart",
+      "keywords": ["Mental-Health Copilots", "Counselor Training", "Behavioral Analytics"]
+    },
+    {
+      "name": "Applied ML",
+      "level": "Advanced",
+      "icon": "fa-solid fa-microchip",
+      "keywords": ["Python", "PyTorch", "Evaluation Harnesses", "Product Experimentation"]
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+    {"language": "English", "fluency": "Native / Bilingual"},
+    {"language": "Hindi", "fluency": "Native"},
+    {"language": "Gujarati", "fluency": "Native"},
+    {"language": "Marathi", "fluency": "Professional"},
+    {"language": "Sanskrit", "fluency": "Intermediate"}
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Human + AI Systems",
+      "icon": "fa-solid fa-people-group",
+      "keywords": ["AI for Mental Health", "Augmented Creativity", "Responsible Deployment"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Story-driven Design",
+      "icon": "fa-solid fa-pen",
+      "keywords": ["Narrative Prototyping", "Science Communication"]
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "LLM Copilot for Peer Counselors",
+      "summary": "Simulation sandbox, MI-aware feedback, and analytics powering caregiver training across large peer-support platforms.",
+      "highlights": ["Improved MI competence in randomized study", "Deployed with partner platforms"],
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "url": "https://raj-sanjay-shah.github.io/blog/2026/llm-peer-counselors/"
+    },
+    {
+      "name": "Dynamic Unlearning Evaluation",
+      "summary": "Model-specific probes + activation tracing that uncover multi-hop leakage in LLM unlearning pipelines.",
+      "highlights": ["Released pip package", "Adopted by multiple labs"],
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "url": "https://raj-sanjay-shah.github.io/blog/2026/unlearning-safety/"
     }
   ]
 }
