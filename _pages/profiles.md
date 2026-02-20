@@ -1,28 +1,26 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: people
-description: members of the lab or group
+title: collaborators
+description: Friends, mentors, and co-authors who shape this work.
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+### Core collaborators
+
+**Diyi Yang** — Associate Professor at Stanford (SALT Lab). We co-lead projects on counselor copilots, clarification-driven summarization, and measuring the brittleness of LLM unlearning methods.
+
+**Sashank Varma** — Professor at Georgia Tech (Cognitive Architecture Lab). Sashank advises my PhD work on developmental alignment, BabyLM, and cognitive evaluations of PLMs.
+
+**Harsh Nishant Lalai** — Research collaborator from BITS Pilani and now a frequent coauthor on watermarking + safety efforts, including the "From Intentions to Techniques" taxonomy.
+
+**Ryan Louie** — Clinical psychiatrist and researcher (Stanford). Ryan helps stress-test our counselor practice sandbox and co-authored the randomized LLM coaching trial.
+
+**Grace Guo** — Assistant Professor at the University of British Columbia (starting Fall 2025). Grace co-leads the graphical perception line, benchmarking VLMs on misleading data visualizations.
+
+**Khushi Bhardwaj** — Research Scientist at NVIDIA; formerly at Georgia Tech. Khushi and I built the BabyLM developmental corpus and the "Development of Cognitive Intelligence" study.
+
+**More collaborators** — Jenna Jiayi Kang, Nathan Paek, Ryan Louie, Renze Louie, Alicja Chaszczewicz, Vijay Marupudi, Atith Gandhi, and the broader SALT Lab and Cognitive Architecture Lab communities.
+
+If you’d like to connect with any of us for visits, panels, or mentorship, drop me a note and I’m happy to make introductions.

@@ -23,15 +23,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p style='text-align: justify;'>
-My research focuses on the practical use of AI to support human well-being. I approach this through three complementary directions:
+<p>
+I’m Raj, a PhD student in Interactive Computing at Georgia Tech (advised by <a href="https://ic.gatech.edu/people/sashank-varma" target="_blank" rel="noopener">Sashank Varma</a>) and a visiting researcher in <a href="http://www.diyiyang.com/" target="_blank" rel="noopener">Diyi Yang’s SALT Lab</a> at Stanford. My job-talk story is about building AI systems that stay trustworthy when the stakes are human well-being.
+</p>
 
-(1) Technical methods for LLM safety, robustness, and control. I develop techniques such as effective unlearning to protect users, watermarking for authorship verification, and continual learning in real environments.
+<p>
+I pull on three research threads:
+</p>
+<ul>
+  <li><strong>Reliable model operations.</strong> Dynamic unlearning evaluations, watermarking, and continual learning recipes that keep LLMs accountable once they leave the lab.</li>
+  <li><strong>LLMs as cognitive probes.</strong> Developmentally staged corpora (BabyLM) and psych-aligned batteries that reveal when models follow—or ignore—human reasoning trajectories.</li>
+  <li><strong>AI for mental health.</strong> Counselor copilots, MI-aware feedback loops, and evaluation protocols that center safety for both helpers and seekers.</li>
+</ul>
 
-(2) Using pre-trained language models (PLMs) as computational models of human cognition. I use PLMs to better understand human cognition; developing theoretically grounded linking hypotheses, modeling reasoning patterns, and evaluating when and why model behavior aligns with or diverges from human judgments and developmental trajectories. Recently, I have been exploring the developmental alignment of models (check out the BabyLM workshop: https://babylm.github.io/index.html).
-
-(3) Benchmarks and evaluation protocols for practical scenarios and contexts. I design domain-specific evaluations for mental health, social-media visualizations, global representations, clinical documentation, and financial language modeling. These evaluations expose where AI failures have real human consequences.
-
-Overall, my research collectively aims to work towards value-aligned use of AI through technical methods combined with effective evaluations.
-
+<p>
+Across these threads I ship practical tooling: pip packages for unlearning stress tests, open MI datasets + coaching sandboxes, and benchmark suites for finance, healthcare, and visualization literacy. If you’re evaluating LLMs in the wild (or just want to see the job-talk deck), reach out.
 </p>

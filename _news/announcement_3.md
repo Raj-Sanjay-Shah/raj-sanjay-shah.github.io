@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Honored to receive the **Georgia Tech President’s Fellowship**—three-year support that lets me double down on LLM safety + mental-health evaluation research.
+Received the **Georgia Tech President’s Fellowship**—three years of support to push on unlearning, mental-health evaluation, and BabyLM.

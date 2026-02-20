@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m spending the academic year as a **Visiting Student Researcher at Stanford (SALT Lab)**, co-advised by Diyi Yang—expect joint write-ups on counselor copilots + unlearning brittleness.
+Started the **Stanford SALT Lab residency** with Diyi Yang—splitting time between counselor copilots and clarification-driven summarization for Amazon Rufus.
