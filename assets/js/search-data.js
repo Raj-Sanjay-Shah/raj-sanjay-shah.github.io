@@ -58,7 +58,51 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-domain-specific-evaluations-with-real-consequences",
+        
+          title: "Domain-Specific Evaluations With Real Consequences",
+        
+        description: "Benchmarks for finance, medicine, and cybersecurity that mirror the consequences that matter.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/domain-evaluations/";
+          
+        },
+      },{id: "post-teaching-language-models-to-grow-up",
+        
+          title: "Teaching Language Models to Grow Up",
+        
+        description: "BabyLM and psych-inspired batteries that treat LLMs as computational subjects of cognitive science.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/cognitive-alignment/";
+          
+        },
+      },{id: "post-beyond-the-unlearning-mirage",
+        
+          title: "Beyond the Unlearning Mirage",
+        
+        description: "Dynamic probes and activation analysis that expose brittle unlearning, paired with watermarking and continual learning.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/unlearning-safety/";
+          
+        },
+      },{id: "post-llm-copilots-for-peer-counselors",
+        
+          title: "LLM Copilots for Peer Counselors",
+        
+        description: "How motivational interviewing–aware sandboxes and analytics help peer counselors level up.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/llm-peer-counselors/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
