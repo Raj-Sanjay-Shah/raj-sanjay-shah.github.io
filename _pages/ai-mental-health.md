@@ -29,6 +29,7 @@ This theme focuses on building trustworthy copilots for peer-support counselors:
    - Upcoming randomized trials showing real-world skill uplift
 
 ### Ways to Engage
+
 - Integrate the coaching sandbox into your peer-support platform
 - Collaborate on new MI annotation drives or safety overlays
 - Join the randomized evaluations to test efficacy in your community

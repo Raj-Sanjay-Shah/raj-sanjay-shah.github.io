@@ -30,6 +30,7 @@ This theme bundles the infrastructure that keeps language models reliable once t
    - Domain-specific adapters for finance, clinical narratives, and more
 
 ### How to use this work
+
 - Plug your unlearning method into the evaluator before deployment.
 - Cite the watermarking taxonomy when rolling out provenance policies.
 - Adopt the domain benchmarks when showcasing vertical LLM claims.

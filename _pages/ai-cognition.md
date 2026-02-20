@@ -29,6 +29,7 @@ Large language models double as computational subjects. This theme captures how 
    - Cognitive science collaborations that keep the benchmarks grounded
 
 ### Get Involved
+
 - Submit to the next BabyLM workshop
 - Run your model through the cognitive battery and share results
 - Co-design new linking hypotheses bridging psych data and LLM latents
