@@ -52,10 +52,7 @@
       "startDate": "2024-05-01",
       "endDate": "2024-08-01",
       "summary": "Evaluated large language models for high-quality behavioral therapy progress note generation and delivered guardrails for AWS HealthScribe deployments.",
-      "highlights": [
-        "Built note-quality rubric covering safety, empathy, and factuality",
-        "Shipped evaluation harness now used by the product team"
-      ]
+      "highlights": ["Built note-quality rubric covering safety, empathy, and factuality", "Shipped evaluation harness now used by the product team"]
     },
     {
       "name": "IBM Research · Human-Centered AI",
@@ -88,10 +85,7 @@
       "startDate": "2021-01-01",
       "endDate": "2021-06-01",
       "summary": "Built automated testing scripts for the merchant onboarding platform and hardened Postman regression suites.",
-      "highlights": [
-        "Reduced manual QA time by 60%",
-        "Partnered with the merchant services team to deploy nightly checks"
-      ]
+      "highlights": ["Reduced manual QA time by 60%", "Partnered with the merchant services team to deploy nightly checks"]
     },
     {
       "name": "Samsung R&D Institute India",
@@ -100,9 +94,7 @@
       "startDate": "2020-05-01",
       "endDate": "2020-06-01",
       "summary": "Built a bi-directional LSTM variational autoencoder to generate melodies and chords for the UX ringtone project.",
-      "highlights": [
-        "Delivered a prototype melody generator used by the UX team"
-      ]
+      "highlights": ["Delivered a prototype melody generator used by the UX team"]
     }
   ],
   "volunteer": [
@@ -113,10 +105,7 @@
       "startDate": "2024-08-01",
       "endDate": "2026-08-01",
       "summary": "Serve as a confidential, neutral resource for PhD students navigating advisor, staff, or program concerns and mediate resolutions.",
-      "highlights": [
-        "Established escalation playbooks now referenced in orientation",
-        "Partnered with faculty to update program communication norms"
-      ]
+      "highlights": ["Established escalation playbooks now referenced in orientation", "Partnered with faculty to update program communication norms"]
     }
   ],
   "education": [
@@ -240,11 +229,11 @@
     }
   ],
   "languages": [
-    {"language": "English", "fluency": "Native / Bilingual"},
-    {"language": "Hindi", "fluency": "Native"},
-    {"language": "Gujarati", "fluency": "Native"},
-    {"language": "Marathi", "fluency": "Professional"},
-    {"language": "Sanskrit", "fluency": "Intermediate"}
+    { "language": "English", "fluency": "Native / Bilingual" },
+    { "language": "Hindi", "fluency": "Native" },
+    { "language": "Gujarati", "fluency": "Native" },
+    { "language": "Marathi", "fluency": "Professional" },
+    { "language": "Sanskrit", "fluency": "Intermediate" }
   ],
   "interests": [
     {
