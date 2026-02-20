@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Snapshot of the work I’m bringing to my job talk.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -39,14 +39,14 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Courses and workshops I’ve helped build.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-collaborators",
+          title: "collaborators",
+          description: "Friends, mentors, and co-authors who shape this work.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -124,14 +124,14 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-honored-to-receive-the-georgia-tech-president-s-fellowship-three-year-support-that-lets-me-double-down-on-llm-safety-mental-health-evaluation-research",
-          title: 'Honored to receive the Georgia Tech President’s Fellowship—three-year support that lets me double...',
+      },{id: "news-received-the-georgia-tech-president-s-fellowship-three-years-of-support-to-push-on-unlearning-mental-health-evaluation-and-babylm",
+          title: 'Received the Georgia Tech President’s Fellowship-three years of support to push on unlearning,...',
           description: "",
-          section: "News",},{id: "news-i-m-spending-the-academic-year-as-a-visiting-student-researcher-at-stanford-salt-lab-co-advised-by-diyi-yang-expect-joint-write-ups-on-counselor-copilots-unlearning-brittleness",
-          title: 'I’m spending the academic year as a Visiting Student Researcher at Stanford (SALT...',
+          section: "News",},{id: "news-started-the-stanford-salt-lab-residency-with-diyi-yang-splitting-time-between-counselor-copilots-and-clarification-driven-summarization-for-amazon-rufus",
+          title: 'Started the Stanford SALT Lab residency with Diyi Yang-splitting time between counselor copilots...',
           description: "",
-          section: "News",},{id: "news-kicked-off-a-new-naïve-scientific-misconceptions-in-llms-study-with-harsh-lalai-and-sashank-varma-probes-are-already-surfacing-where-gpt-4o-slips-back-into-child-like-theories",
-          title: 'Kicked off a new Naïve Scientific Misconceptions in LLMs study with Harsh Lalai...',
+          section: "News",},{id: "news-announced-my-job-talk-tour-georgia-tech-stanford-cmu-hci-demoing-our-naïve-scientific-misconceptions-probes-that-uncover-where-gpt-4o-slips-back-into-child-theories",
+          title: 'Announced my job talk tour (Georgia Tech → Stanford → CMU HCI)**-demoing our...',
           description: "",
           section: "News",},{id: "projects-project-10",
           title: 'project 10',
