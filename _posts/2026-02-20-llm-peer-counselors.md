@@ -34,4 +34,4 @@ Peer-support platforms run on empathy, reflective listening, and quick feedback,
 - Safety overlays that combine the unlearning + watermarking stack so sensitive disclosures stay in the secure perimeter.
 - An open evaluation suite (datasets, rubrics, code) so other teams can benchmark their own coaching tools.
 
-If you want to experiment with the coaching sandbox or contribute new MI annotations, reach out—this line of work thrives on collaboration.
+If you want to experiment with the coaching sandbox or contribute new MI annotations, reach out-this line of work thrives on collaboration.

@@ -27,4 +27,4 @@ State-based simulated patients plus behavioral-therapy note rubrics so practitio
 
 Benchmarks for finance, clinical narratives, and misleading data visualizations. These suites anchor the “real world consequences” story in the job talk.
 
-For code, datasets, and preprints see the blog posts or the publications page—everything is linked there. If you’d like a deeper dive on any project, reach out and I’ll share the latest slide deck.
+For code, datasets, and preprints see the blog posts or the publications page-everything is linked there. If you’d like a deeper dive on any project, reach out and I’ll share the latest slide deck.

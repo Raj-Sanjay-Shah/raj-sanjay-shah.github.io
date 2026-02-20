@@ -19,13 +19,13 @@
       institution: Georgia Institute of Technology · Interactive Computing
       year: 2023 - Present
       description:
-        - Advisor — Prof. Sashank Varma
+        - Advisor - Prof. Sashank Varma
         - Focus on LLM safety, developmental alignment, and AI copilots for well-being.
     - title: Visiting Student Researcher
       institution: Stanford University · SALT Lab
       year: 2024 - 2025
       description:
-        - Host — Prof. Diyi Yang
+        - Host - Prof. Diyi Yang
         - Joint projects on counselor coaching systems and unlearning brittleness.
     - title: MS in Computer Science (Machine Learning)
       institution: Georgia Institute of Technology
@@ -100,7 +100,7 @@
         - LRN Foundation Student Travel Grant (EMNLP)
     - year: 2021
       items:
-        - BITS Pilani Best Paper Award — Information Retrieval
+        - BITS Pilani Best Paper Award - Information Retrieval
 
 - title: Academic Interests
   type: nested_list

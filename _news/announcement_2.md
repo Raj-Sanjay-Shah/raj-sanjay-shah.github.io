@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started the **Stanford SALT Lab residency** with Diyi Yang—splitting time between counselor copilots and clarification-driven summarization for Amazon Rufus.
+Started the **Stanford SALT Lab residency** with Diyi Yang-splitting time between counselor copilots and clarification-driven summarization for Amazon Rufus.

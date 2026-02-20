@@ -7,7 +7,7 @@ tags: [cognition, babylm, developmental-alignment, llm]
 categories: [research, cognition]
 ---
 
-Large language models can mimic adult conversation, but do they develop cognitive abilities the way humans do? Our thread—from **Development of Cognitive Intelligence in Pre-trained Language Models (EMNLP 2024)** to BabyLM workshops and typicality/numerical studies—treats LLMs as computational participants in cognitive science experiments.
+Large language models can mimic adult conversation, but do they develop cognitive abilities the way humans do? Our thread-from **Development of Cognitive Intelligence in Pre-trained Language Models (EMNLP 2024)** to BabyLM workshops and typicality/numerical studies-treats LLMs as computational participants in cognitive science experiments.
 
 ## Why developmental alignment matters
 

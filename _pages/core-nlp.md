@@ -11,8 +11,8 @@ This theme bundles the infrastructure that keeps language models reliable once t
 
 ### Featured Work
 
-- **Beyond the Unlearning Mirage** — Dynamic evaluations that stress-test multi-hop leakage and fuse in watermarking + continual-learning tactics.
-- **Domain-Specific Evaluations With Real Consequences** — Finance, medical, and cybersecurity benchmarks that measure impact instead of just BLEU.
+- **Beyond the Unlearning Mirage** - Dynamic evaluations that stress-test multi-hop leakage and fuse in watermarking + continual-learning tactics.
+- **Domain-Specific Evaluations With Real Consequences** - Finance, medical, and cybersecurity benchmarks that measure impact instead of just BLEU.
 
 ### Highlights
 
@@ -35,4 +35,4 @@ This theme bundles the infrastructure that keeps language models reliable once t
 - Cite the watermarking taxonomy when rolling out provenance policies.
 - Adopt the domain benchmarks when showcasing vertical LLM claims.
 
-Questions or collab ideas? Drop a note in Discord or email—this stack is meant to be extended.
+Questions or collab ideas? Drop a note in Discord or email-this stack is meant to be extended.

@@ -32,7 +32,7 @@ I pull on three research threads:
 </p>
 <ul>
   <li><strong>Reliable model operations.</strong> Dynamic unlearning evaluations, watermarking, and continual learning recipes that keep LLMs accountable once they leave the lab.</li>
-  <li><strong>LLMs as cognitive probes.</strong> Developmentally staged corpora (BabyLM) and psych-aligned batteries that reveal when models follow—or ignore—human reasoning trajectories.</li>
+  <li><strong>LLMs as cognitive probes.</strong> Developmentally staged corpora (BabyLM) and psych-aligned batteries that reveal when models follow-or ignore-human reasoning trajectories.</li>
   <li><strong>AI for mental health.</strong> Counselor copilots, MI-aware feedback loops, and evaluation protocols that center safety for both helpers and seekers.</li>
 </ul>
 

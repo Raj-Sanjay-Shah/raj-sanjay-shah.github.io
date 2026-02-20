@@ -508,7 +508,7 @@ When users reference issues or discussions:
    - Example: "This is similar to what was discussed in #67 (from December 2024), which is still the best approach."
 
 5. **Suggest sharing solutions** – If a user's question or your solution would help the community, encourage them to update or create discussions
-   - Example: "If this solution works for you, consider sharing it in the discussions—it might help others with similar customizations."
+   - Example: "If this solution works for you, consider sharing it in the discussions-it might help others with similar customizations."
 
 ## Response Style
 

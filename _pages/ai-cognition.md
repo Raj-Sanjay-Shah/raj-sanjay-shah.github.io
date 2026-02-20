@@ -7,12 +7,12 @@ description: "What language models reveal about human reasoning and development.
 
 ## AI ↔ Cognition
 
-Large language models double as computational subjects. This theme captures how BabyLM, cognitive batteries, and psycholinguistic analyses expose where models follow—or diverge from—human developmental trajectories.
+Large language models double as computational subjects. This theme captures how BabyLM, cognitive batteries, and psycholinguistic analyses expose where models follow-or diverge from-human developmental trajectories.
 
 ### Featured Work
 
-- **Teaching Language Models to Grow Up** — Developmentally staged corpora and cognitive test batteries.
-- **How Well Do Deep Learning Models Capture Human Concepts?** — Typicality effects and concept representations.
+- **Teaching Language Models to Grow Up** - Developmentally staged corpora and cognitive test batteries.
+- **How Well Do Deep Learning Models Capture Human Concepts?** - Typicality effects and concept representations.
 
 ### Highlights
 
@@ -34,4 +34,4 @@ Large language models double as computational subjects. This theme captures how 
 - Run your model through the cognitive battery and share results
 - Co-design new linking hypotheses bridging psych data and LLM latents
 
-Reach out if you want to pair up—this line thrives on interdisciplinary partnerships.
+Reach out if you want to pair up-this line thrives on interdisciplinary partnerships.

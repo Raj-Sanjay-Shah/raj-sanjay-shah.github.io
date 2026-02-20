@@ -11,8 +11,8 @@ This theme focuses on building trustworthy copilots for peer-support counselors:
 
 ### Featured Work
 
-- **LLM Copilots for Peer Counselors** — Practice environments, rubric-aligned feedback, and deployment results.
-- **Helping the Helper / Multi-Level Feedback Generation** — Empirical evidence from CSCW, CHI, and ACL venues.
+- **LLM Copilots for Peer Counselors** - Practice environments, rubric-aligned feedback, and deployment results.
+- **Helping the Helper / Multi-Level Feedback Generation** - Empirical evidence from CSCW, CHI, and ACL venues.
 
 ### Highlights
 
@@ -34,4 +34,4 @@ This theme focuses on building trustworthy copilots for peer-support counselors:
 - Collaborate on new MI annotation drives or safety overlays
 - Join the randomized evaluations to test efficacy in your community
 
-If you operate in mental health tech or digital well-being, let’s talk—we’re actively sharing tools and study designs.
+If you operate in mental health tech or digital well-being, let’s talk-we’re actively sharing tools and study designs.

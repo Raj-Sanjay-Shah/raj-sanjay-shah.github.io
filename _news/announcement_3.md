@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received the **Georgia Tech President’s Fellowship**—three years of support to push on unlearning, mental-health evaluation, and BabyLM.
+Received the **Georgia Tech President’s Fellowship**-three years of support to push on unlearning, mental-health evaluation, and BabyLM.

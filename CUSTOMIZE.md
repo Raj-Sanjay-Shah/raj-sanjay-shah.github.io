@@ -330,7 +330,7 @@ You can add news in the about page by adding new Markdown files in the [\_news](
 
 This Jekyll theme implements [collections](https://jekyllrb.com/docs/collections/) to let you break up your work into categories. The theme comes with three default collections: `news`, `projects`, and `books`. Items from the `news` collection are automatically displayed on the home page, while items from the `projects` collection are displayed on a responsive grid on the projects page, and items from the `books` collection are displayed on its own `bookshelf` page inside `submenus`.
 
-You can easily create your own collections for any type of content—teaching materials, courses, apps, short stories, or whatever suits your needs.
+You can easily create your own collections for any type of content-teaching materials, courses, apps, short stories, or whatever suits your needs.
 
 ### Creating a new collection
 
@@ -465,19 +465,19 @@ Additional course content, information, or resources can be added here as markdo
 
 #### Required fields
 
-- `layout: course` — Must be set to use the course layout
-- `title` — The course title
-- `year` — The year the course was/will be taught (used for sorting)
-- `course_id` — A unique identifier for the course
+- `layout: course` - Must be set to use the course layout
+- `title` - The course title
+- `year` - The year the course was/will be taught (used for sorting)
+- `course_id` - A unique identifier for the course
 
 #### Optional fields
 
-- `description` — A brief description of the course
-- `instructor` — The course instructor's name
-- `term` — The academic term (e.g., Fall, Spring, Summer)
-- `location` — The course location
-- `time` — The course meeting time
-- `schedule` — A list of course sessions with details
+- `description` - A brief description of the course
+- `instructor` - The course instructor's name
+- `term` - The academic term (e.g., Fall, Spring, Summer)
+- `location` - The course location
+- `time` - The course meeting time
+- `schedule` - A list of course sessions with details
 
 ### Collections with categories and tags
 

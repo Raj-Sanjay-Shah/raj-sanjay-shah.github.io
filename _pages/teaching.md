@@ -11,13 +11,13 @@ calendar: false
 ### Graduate Teaching Assistant (Georgia Tech)
 
 **CS 7641 · Human and Machine Learning**  
-_Fall 2025, Fall 2023_ — Designed project rubrics, mentored 20+ capstone teams, and piloted a "teachable-agent" assignment that later fed into my BabyLM work.
+_Fall 2025, Fall 2023_ - Designed project rubrics, mentored 20+ capstone teams, and piloted a "teachable-agent" assignment that later fed into my BabyLM work.
 
 **CS 3790 · Introduction to Cognitive Science**  
-_Spring 2024, Spring 2023_ — Authored new homework sets on language development and ran recitations that paired psych experiments with large model probes.
+_Spring 2024, Spring 2023_ - Authored new homework sets on language development and ran recitations that paired psych experiments with large model probes.
 
 **CS 4650 · Natural Language Processing**  
-_Fall 2022_ — Built hands-on coding labs (transformers, subword tokenization) and staffed office hours for ~200 students.
+_Fall 2022_ - Built hands-on coding labs (transformers, subword tokenization) and staffed office hours for ~200 students.
 
 ### Other teaching & mentoring
 
