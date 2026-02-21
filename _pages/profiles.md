@@ -9,18 +9,32 @@ nav_order: 7
 
 ### Core collaborators
 
-**Diyi Yang** - Associate Professor at Stanford (SALT Lab). We co-lead projects on counselor copilots, clarification-driven summarization, and measuring the brittleness of LLM unlearning methods.
+**Sashank Varma** - Professor at Georgia Tech (Cognitive Architecture Lab).
 
-**Sashank Varma** - Professor at Georgia Tech (Cognitive Architecture Lab). Sashank advises my PhD work on developmental alignment, BabyLM, and cognitive evaluations of PLMs.
+**Diyi Yang** - Assistant Professor at Stanford (SALT Lab).
 
-**Harsh Nishant Lalai** - Research collaborator from BITS Pilani and now a frequent coauthor on watermarking + safety efforts, including the "From Intentions to Techniques" taxonomy.
+**Harsh Nishant Lalai** - Research collaborator from BITS Pilani.
 
-**Ryan Louie** - Clinical psychiatrist and researcher (Stanford). Ryan helps stress-test our counselor practice sandbox and co-authored the randomized LLM coaching trial.
+**Ryan Christopher Louie** - Postdoctoral Researcher at Stanford University (Human-Centered AI, Counseling Systems).
 
-**Grace Guo** - Assistant Professor at the University of British Columbia (starting Fall 2025). Grace co-leads the graphical perception line, benchmarking VLMs on misleading data visualizations.
+**Grace Guo** - Postdoctoral Researcher at Harvard University (Vision-Language Models, Graphical Perception).
 
-**Khushi Bhardwaj** - Research Scientist at NVIDIA; formerly at Georgia Tech. Khushi and I built the BabyLM developmental corpus and the "Development of Cognitive Intelligence" study.
+**Khushi Bhardwaj** - Research Scientist at NVIDIA (LLM Post Tuning).
 
-**More collaborators** - Jenna Jiayi Kang, Nathan Paek, Ryan Louie, Renze Louie, Alicja Chaszczewicz, Vijay Marupudi, Atith Gandhi, and the broader SALT Lab and Cognitive Architecture Lab communities.
+**Ali Emami** - Assistant Professor at Emory University (Reasoning, NLP).
 
-If you’d like to connect with any of us for visits, panels, or mentorship, drop me a note and I’m happy to make introductions.
+**Chaitanya Shivade** - Research Scientist at Amazon (Clinical NLP, Healthcare AI).
+
+**Yi-Chia Wang** - Principal Research Scientist (Human-AI Collaboration, Behavioral Modeling).
+
+**Robert Kraut** - Professor at Carnegie Mellon University (Social Computing, Online Communities).
+
+**Michael Frank** - Professor at Stanford University (Cognitive Development, Language Learning).
+
+**Vijay Marupudi** - Postdoctoral Researcher at UC Berkeley (Continual Learning, Cognitive Modeling).
+
+**Haiyi Zhu** - Associate Professor at Carnegie Mellon University (Human-AI Interaction, Social Computing).
+
+**Lei Xu** - Research Collaborator (Machine Learning, Health AI).
+
+**Jenna Jiayi Kang** - PhD Student at New York University (Perception).
