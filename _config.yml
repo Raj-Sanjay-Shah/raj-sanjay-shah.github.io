@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in Interactive Computing at Georgia Tech.
 footer_text: >
-  © 2026 Raj S. Shah. All opinions are my own. Site developed with the help of OpenClaw. Work in progress.
+  All opinions are my own. Site developed with OpenClaw. Work in progress.
 keywords: LLMs for cognition, human-AI collaboration, cognitive science, Georgia Tech, Stanford NLP # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: raj_emoji.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
