@@ -5,4 +5,8 @@ inline: true
 related_posts: false
 ---
 
-Shoutout to **Harsh Nishant Lalai** — the co-author behind our text watermarking taxonomy, naive-misconception probes, and half the safety stack on this site. He’s on the lookout for Fall 2026 PhD programs focused on LLM safety / evaluation. If your lab needs someone who ships both theory and tools, DM me and I’ll intro you.
+Shoutout to **Harsh Nishant Lalai**. He is exploring PhD opportunities for Fall 2026.
+
+He has strong theoretical grounding, careful experimental design, and the engineering maturity to turn concepts into working systems. If your lab values both depth and execution, I highly recommend him (Harsh is awesome).
+
+Website: https://sites.google.com/view/harsh-nishant-lalai/
