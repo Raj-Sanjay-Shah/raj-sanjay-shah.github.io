@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-04'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -10,7 +10,7 @@ papers:
     title: 'TN-Eval: Rubric and Evaluation Protocols for Measuring the Quality of Behavioral Therapy Notes'
     year: '2025'
   mpGOJ0gAAAAJ:70eg2SAEIzsC:
-    citations: 3
+    citations: 4
     title: 'JARVix at SemEval-2022 Task 2: It Takes One to Know One? Idiomaticity Detection using Zero and One-Shot Learning'
     year: '2022'
   mpGOJ0gAAAAJ:9yKSN-GCB0IC:
@@ -18,7 +18,7 @@ papers:
     title: 'Bitcoin data analytics: Scalable techniques for transaction clustering and embedding generation'
     year: '2021'
   mpGOJ0gAAAAJ:HDshCWvjkbEC:
-    citations: 4
+    citations: 5
     title: The potential--and the pitfalls--of using pre-trained language models as cognitive science theories
     year: '2025'
   mpGOJ0gAAAAJ:HoB7MX3m0LUC:
@@ -29,20 +29,16 @@ papers:
     citations: 13
     title: Development of cognitive intelligence in pre-trained language models
     year: '2024'
-  mpGOJ0gAAAAJ:R3hNpaxXUhUC:
-    citations: 36
-    title: 'BabyLM Turns 3: Call for papers for the 2025 BabyLM workshop'
-    year: '2025'
   mpGOJ0gAAAAJ:Se3iqnhoufwC:
-    citations: 22
+    citations: 23
     title: Numeric Magnitude Comparison Effects in Large Language Models
     year: '2023'
   mpGOJ0gAAAAJ:ULOm3_A8WrAC:
-    citations: 28
+    citations: 29
     title: Multi-level feedback generation with large language models for empowering novice peer counselors
     year: '2024'
   mpGOJ0gAAAAJ:Y0pCki6q_DkC:
-    citations: 66
+    citations: 67
     title: Modeling motivational interviewing strategies on an online peer-to-peer counseling platform
     year: '2022'
   mpGOJ0gAAAAJ:YFjsv_pBGBYC:
@@ -53,8 +49,12 @@ papers:
     citations: 18
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
+  mpGOJ0gAAAAJ:ZHo1McVdvXMC:
+    citations: 39
+    title: 'BabyLM Turns 4: Call for Papers for the 2026 BabyLM Workshop'
+    year: '2026'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 95
+    citations: 97
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
@@ -70,7 +70,7 @@ papers:
     title: What makes digital support effective? how therapeutic skills affect clinical well-being
     year: '2024'
   mpGOJ0gAAAAJ:eQOLeE2rZwMC:
-    citations: 71
+    citations: 74
     title: 'Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback'
     year: '2025'
   mpGOJ0gAAAAJ:g5m5HwL7SMYC:
@@ -82,7 +82,7 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 191
+    citations: 196
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
@@ -98,7 +98,7 @@ papers:
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
     year: '2025'
   mpGOJ0gAAAAJ:roLk4NBRz8UC:
-    citations: 10
+    citations: 11
     title: Pre-training LLMs using human-like development data corpus
     year: '2023'
   mpGOJ0gAAAAJ:vV6vV6tmYwMC:
