@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-18'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -34,27 +34,27 @@ papers:
     title: Numeric Magnitude Comparison Effects in Large Language Models
     year: '2023'
   mpGOJ0gAAAAJ:ULOm3_A8WrAC:
-    citations: 29
+    citations: 31
     title: Multi-level feedback generation with large language models for empowering novice peer counselors
     year: '2024'
   mpGOJ0gAAAAJ:Y0pCki6q_DkC:
-    citations: 67
+    citations: 68
     title: Modeling motivational interviewing strategies on an online peer-to-peer counseling platform
     year: '2022'
   mpGOJ0gAAAAJ:YFjsv_pBGBYC:
     citations: 1
     title: 'The unlearning mirage: A dynamic framework for evaluating LLM unlearning'
-    year: '2025'
+    year: '2026'
   mpGOJ0gAAAAJ:YsMSGLbcyi4C:
     citations: 18
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
   mpGOJ0gAAAAJ:ZHo1McVdvXMC:
-    citations: 39
+    citations: 41
     title: 'BabyLM Turns 4: Call for Papers for the 2026 BabyLM Workshop'
     year: '2026'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 97
+    citations: 100
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
@@ -66,11 +66,11 @@ papers:
     title: 'The World According to LLMs: How Geographic Origin Influences LLMs'' Entity Deduction Capabilities'
     year: '2025'
   mpGOJ0gAAAAJ:dhFuZR0502QC:
-    citations: 15
+    citations: 17
     title: What makes digital support effective? how therapeutic skills affect clinical well-being
     year: '2024'
   mpGOJ0gAAAAJ:eQOLeE2rZwMC:
-    citations: 74
+    citations: 78
     title: 'Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback'
     year: '2025'
   mpGOJ0gAAAAJ:g5m5HwL7SMYC:
@@ -82,7 +82,7 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 196
+    citations: 199
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
@@ -94,7 +94,7 @@ papers:
     title: 'Incremental comprehension of garden-path sentences by large language models: Semantic interpretation, syntactic re-analysis, and attention'
     year: '2024'
   mpGOJ0gAAAAJ:r0BpntZqJG4C:
-    citations: 12
+    citations: 14
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
     year: '2025'
   mpGOJ0gAAAAJ:roLk4NBRz8UC:
