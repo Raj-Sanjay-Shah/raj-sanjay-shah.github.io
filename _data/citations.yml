@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-23'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -50,11 +50,11 @@ papers:
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
   mpGOJ0gAAAAJ:ZHo1McVdvXMC:
-    citations: 41
+    citations: 43
     title: 'BabyLM Turns 4: Call for Papers for the 2026 BabyLM Workshop'
     year: '2026'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 100
+    citations: 101
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
@@ -94,7 +94,7 @@ papers:
     title: 'Incremental comprehension of garden-path sentences by large language models: Semantic interpretation, syntactic re-analysis, and attention'
     year: '2024'
   mpGOJ0gAAAAJ:r0BpntZqJG4C:
-    citations: 14
+    citations: 15
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
     year: '2025'
   mpGOJ0gAAAAJ:roLk4NBRz8UC:
