@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-03-25'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -82,7 +82,7 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 199
+    citations: 200
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
@@ -97,6 +97,10 @@ papers:
     citations: 15
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
     year: '2025'
+  mpGOJ0gAAAAJ:rO6llkc54NcC:
+    citations: 0
+    title: 'BabyLM Turns 4 and Goes Multilingual: Call for Papers for the 2026 BabyLM Workshop'
+    year: '2026'
   mpGOJ0gAAAAJ:roLk4NBRz8UC:
     citations: 11
     title: Pre-training LLMs using human-like development data corpus
