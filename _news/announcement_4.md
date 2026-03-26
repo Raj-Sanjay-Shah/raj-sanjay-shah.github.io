@@ -7,6 +7,6 @@ related_posts: false
 
 Shoutout to **Harsh Nishant Lalai**. He is exploring PhD opportunities for Fall 2026.
 
-He has strong theoretical grounding, careful experimental design, and the engineering maturity to turn concepts into working systems. If your lab values both depth and execution, I highly recommend him (Harsh is awesome).
+He has strong theoretical grounding, careful experimental design, and the engineering maturity to turn concepts into working systems. If your lab values both depth and execution, I highly recommend him.
 
 Website: https://sites.google.com/view/harsh-nishant-lalai/
