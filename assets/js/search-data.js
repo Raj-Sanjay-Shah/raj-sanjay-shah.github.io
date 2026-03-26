@@ -124,7 +124,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-shoutout-to-harsh-nishant-lalai-he-is-exploring-phd-opportunities-for-fall-2026-he-has-strong-theoretical-grounding-careful-experimental-design-and-the-engineering-maturity-to-turn-concepts-into-working-systems-if-your-lab-values-both-depth-and-execution-i-highly-recommend-him-harsh-is-awesome-website-https-sites-google-com-view-harsh-nishant-lalai",
+      },{id: "news-shoutout-to-harsh-nishant-lalai-he-is-exploring-phd-opportunities-for-fall-2026-he-has-strong-theoretical-grounding-careful-experimental-design-and-the-engineering-maturity-to-turn-concepts-into-working-systems-if-your-lab-values-both-depth-and-execution-i-highly-recommend-him-website-https-sites-google-com-view-harsh-nishant-lalai",
           title: 'Shoutout to Harsh Nishant Lalai. He is exploring PhD opportunities for Fall 2026....',
           description: "",
           section: "News",},{id: "projects-project-10",
