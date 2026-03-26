@@ -32,6 +32,6 @@ My research focuses on the practical use of AI to support human well-being. I ap
 
 (3) Benchmarks and evaluation protocols for practical scenarios and contexts. I design domain-specific evaluations for mental health, social-media visualizations, global representations, clinical documentation, and financial language modeling. These evaluations expose where AI failures have real human consequences.
 
-Overall, my research collectively aims to work towards value-aligned use of AI through technical methods combined with effective evaluations.
+Overall, my research aims to advance value-aligned AI use through technical methods and effective evaluation.
 
 </p>
