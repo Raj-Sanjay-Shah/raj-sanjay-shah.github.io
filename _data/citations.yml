@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-20'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
-    citations: 10
+    citations: 11
     title: Understanding Graphical Perception in Data Visualization through Zero-shot Prompting of Vision-Language Models
     year: '2024'
   mpGOJ0gAAAAJ:4JMBOYKVnBMC:
-    citations: 2
+    citations: 3
     title: 'TN-Eval: Rubric and Evaluation Protocols for Measuring the Quality of Behavioral Therapy Notes'
     year: '2025'
   mpGOJ0gAAAAJ:70eg2SAEIzsC:
@@ -34,11 +34,11 @@ papers:
     title: Numeric Magnitude Comparison Effects in Large Language Models
     year: '2023'
   mpGOJ0gAAAAJ:ULOm3_A8WrAC:
-    citations: 32
+    citations: 33
     title: Multi-level feedback generation with large language models for empowering novice peer counselors
     year: '2024'
   mpGOJ0gAAAAJ:Y0pCki6q_DkC:
-    citations: 68
+    citations: 69
     title: Modeling motivational interviewing strategies on an online peer-to-peer counseling platform
     year: '2022'
   mpGOJ0gAAAAJ:YFjsv_pBGBYC:
@@ -46,11 +46,11 @@ papers:
     title: 'The unlearning mirage: A dynamic framework for evaluating LLM unlearning'
     year: '2026'
   mpGOJ0gAAAAJ:YsMSGLbcyi4C:
-    citations: 18
+    citations: 20
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 101
+    citations: 109
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
@@ -58,7 +58,7 @@ papers:
     title: How well do deep learning models capture human concepts? the case of the typicality effect
     year: '2024'
   mpGOJ0gAAAAJ:blknAaTinKkC:
-    citations: 3
+    citations: 4
     title: 'The World According to LLMs: How Geographic Origin Influences LLMs'' Entity Deduction Capabilities'
     year: '2025'
   mpGOJ0gAAAAJ:dhFuZR0502QC:
@@ -66,7 +66,7 @@ papers:
     title: What makes digital support effective? how therapeutic skills affect clinical well-being
     year: '2024'
   mpGOJ0gAAAAJ:eQOLeE2rZwMC:
-    citations: 78
+    citations: 81
     title: 'Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback'
     year: '2025'
   mpGOJ0gAAAAJ:g5m5HwL7SMYC:
@@ -78,7 +78,7 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 200
+    citations: 206
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
@@ -90,11 +90,11 @@ papers:
     title: 'Incremental comprehension of garden-path sentences by large language models: Semantic interpretation, syntactic re-analysis, and attention'
     year: '2024'
   mpGOJ0gAAAAJ:r0BpntZqJG4C:
-    citations: 15
+    citations: 18
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
-    year: '2025'
+    year: '2026'
   mpGOJ0gAAAAJ:rO6llkc54NcC:
-    citations: 43
+    citations: 44
     title: 'BabyLM Turns 4 and Goes Multilingual: Call for Papers for the 2026 BabyLM Workshop'
     year: '2026'
   mpGOJ0gAAAAJ:roLk4NBRz8UC:
@@ -105,3 +105,7 @@ papers:
     citations: 0
     title: Guiding a user to interact with an intelligent computing system using best practices
     year: '2025'
+  mpGOJ0gAAAAJ:zA6iFVUQeVQC:
+    citations: 0
+    title: 'When Visuals Aren''t the Problem: Evaluating Vision-Language Models on Misleading Data Visualizations'
+    year: '2026'
