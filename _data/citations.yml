@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-04-24'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -22,7 +22,7 @@ papers:
     title: The potential--and the pitfalls--of using pre-trained language models as cognitive science theories
     year: '2025'
   mpGOJ0gAAAAJ:HoB7MX3m0LUC:
-    citations: 9
+    citations: 11
     title: 'From intentions to techniques: A comprehensive taxonomy and challenges in text watermarking for large language models'
     year: '2025'
   mpGOJ0gAAAAJ:IWHjjKOFINEC:
@@ -78,11 +78,11 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 206
+    citations: 208
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
-    citations: 22
+    citations: 23
     title: 'Cti-twitter: Gathering cyber threat intelligence from twitter using integrated supervised and unsupervised learning'
     year: '2020'
   mpGOJ0gAAAAJ:qxL8FJ1GzNcC:
