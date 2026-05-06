@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-05-06'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
-    citations: 11
+    citations: 12
     title: Understanding Graphical Perception in Data Visualization through Zero-shot Prompting of Vision-Language Models
     year: '2024'
   mpGOJ0gAAAAJ:4JMBOYKVnBMC:
@@ -34,11 +34,11 @@ papers:
     title: Numeric Magnitude Comparison Effects in Large Language Models
     year: '2023'
   mpGOJ0gAAAAJ:ULOm3_A8WrAC:
-    citations: 33
+    citations: 34
     title: Multi-level feedback generation with large language models for empowering novice peer counselors
     year: '2024'
   mpGOJ0gAAAAJ:Y0pCki6q_DkC:
-    citations: 69
+    citations: 70
     title: Modeling motivational interviewing strategies on an online peer-to-peer counseling platform
     year: '2022'
   mpGOJ0gAAAAJ:YFjsv_pBGBYC:
@@ -50,7 +50,7 @@ papers:
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 109
+    citations: 113
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
@@ -66,11 +66,11 @@ papers:
     title: What makes digital support effective? how therapeutic skills affect clinical well-being
     year: '2024'
   mpGOJ0gAAAAJ:eQOLeE2rZwMC:
-    citations: 81
+    citations: 83
     title: 'Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback'
     year: '2025'
   mpGOJ0gAAAAJ:g5m5HwL7SMYC:
-    citations: 0
+    citations: 1
     title: Responsible Evaluation of AI for Mental Health
     year: '2026'
   mpGOJ0gAAAAJ:hC7cP41nSMkC:
@@ -78,7 +78,7 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 208
+    citations: 210
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
@@ -94,7 +94,7 @@ papers:
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
     year: '2026'
   mpGOJ0gAAAAJ:rO6llkc54NcC:
-    citations: 44
+    citations: 45
     title: 'BabyLM Turns 4 and Goes Multilingual: Call for Papers for the 2026 BabyLM Workshop'
     year: '2026'
   mpGOJ0gAAAAJ:roLk4NBRz8UC:
