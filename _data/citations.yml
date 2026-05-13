@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-13'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 12
@@ -50,7 +50,7 @@ papers:
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 113
+    citations: 115
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
@@ -66,7 +66,7 @@ papers:
     title: What makes digital support effective? how therapeutic skills affect clinical well-being
     year: '2024'
   mpGOJ0gAAAAJ:eQOLeE2rZwMC:
-    citations: 83
+    citations: 84
     title: 'Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback'
     year: '2025'
   mpGOJ0gAAAAJ:g5m5HwL7SMYC:
@@ -78,7 +78,7 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 210
+    citations: 212
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
@@ -94,7 +94,7 @@ papers:
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
     year: '2026'
   mpGOJ0gAAAAJ:rO6llkc54NcC:
-    citations: 45
+    citations: 47
     title: 'BabyLM Turns 4 and Goes Multilingual: Call for Papers for the 2026 BabyLM Workshop'
     year: '2026'
   mpGOJ0gAAAAJ:roLk4NBRz8UC:
