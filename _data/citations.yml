@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-17'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 12
@@ -22,7 +22,7 @@ papers:
     title: The potential--and the pitfalls--of using pre-trained language models as cognitive science theories
     year: '2025'
   mpGOJ0gAAAAJ:HoB7MX3m0LUC:
-    citations: 12
+    citations: 13
     title: 'From intentions to techniques: A comprehensive taxonomy and challenges in text watermarking for large language models'
     year: '2025'
   mpGOJ0gAAAAJ:IWHjjKOFINEC:
@@ -34,11 +34,11 @@ papers:
     title: Numeric Magnitude Comparison Effects in Large Language Models
     year: '2023'
   mpGOJ0gAAAAJ:ULOm3_A8WrAC:
-    citations: 37
+    citations: 38
     title: Multi-level feedback generation with large language models for empowering novice peer counselors
     year: '2024'
   mpGOJ0gAAAAJ:Y0pCki6q_DkC:
-    citations: 73
+    citations: 74
     title: Modeling motivational interviewing strategies on an online peer-to-peer counseling platform
     year: '2022'
   mpGOJ0gAAAAJ:YFjsv_pBGBYC:
@@ -50,7 +50,7 @@ papers:
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 118
+    citations: 120
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
@@ -62,7 +62,7 @@ papers:
     title: 'The World According to LLMs: How Geographic Origin Influences LLMs'' Entity Deduction Capabilities'
     year: '2025'
   mpGOJ0gAAAAJ:dhFuZR0502QC:
-    citations: 18
+    citations: 19
     title: What makes digital support effective? how therapeutic skills affect clinical well-being
     year: '2024'
   mpGOJ0gAAAAJ:eQOLeE2rZwMC:
@@ -78,7 +78,7 @@ papers:
     title: 'Natural Mitigation of Catastrophic Interference: Continual Learning in Power-Law Learning Environments'
     year: '2024'
   mpGOJ0gAAAAJ:iH-uZ7U-co4C:
-    citations: 219
+    citations: 220
     title: 'When flue meets flang: Benchmarks and large pre-trained language model for financial domain'
     year: '2022'
   mpGOJ0gAAAAJ:qjMakFHDy7sC:
