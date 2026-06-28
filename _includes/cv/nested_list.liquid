@@ -1,16 +1,24 @@
-<ul class="card-text font-weight-light list-group list-group-flush">
+<div class="cv-nested-groups">
   {% for content in entry.contents %}
-    <li class="list-group-item">
-      <h5 class="font-italic">{{ content.title }}</h5>
+    <section class="cv-nested-group">
+      <h5>{{ content.title }}</h5>
       {% if content.items %}
-        <ul class="subitems">
+        <div class="cv-nested-grid">
           {% for subitem in content.items %}
-            <li>
-              <span class="subitem">{{ subitem }}</span>
-            </li>
+            {% assign subitem_parts = subitem | split: " - " %}
+            {% assign subitem_name = subitem_parts | first %}
+            {% assign subitem_details = subitem | remove_first: subitem_name | remove_first: " - " %}
+            <div class="cv-nested-item">
+              {% if subitem_parts.size > 1 %}
+                <strong>{{ subitem_name }}</strong>
+                <span>{{ subitem_details }}</span>
+              {% else %}
+                <span>{{ subitem }}</span>
+              {% endif %}
+            </div>
           {% endfor %}
-        </ul>
+        </div>
       {% endif %}
-    </li>
+    </section>
   {% endfor %}
-</ul>
+</div>

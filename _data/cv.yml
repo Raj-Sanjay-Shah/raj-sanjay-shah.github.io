@@ -183,7 +183,7 @@
 - title: Mentorship
   type: nested_list
   contents:
-    - title: Current and recent student collaborators
+    - title: Student mentorship
       items:
         - Ifdita Hasan Orney - Undergraduate senior, Stanford University (August 2024–present)
         - Jenna Kang - PhD student, New York University (August 2024–present)
@@ -203,8 +203,6 @@
         - Atith Gandhi - MS CS, Georgia Tech (January 2023–May 2024); Software Engineer at Oracle
         - Ananjan Nandi - MS CS, Stanford University (August 2023–May 2024); PhD student at Stanford University
         - Cheng Chang - MS CS, Stanford University (August 2023–May 2024); Software Engineer at Google
-    - title: Past student collaborators
-      items:
         - Siddhartha Vemuri - MS CS, Georgia Tech (January 2023–August 2023)
         - Jason Liu - Undergraduate, University of Pennsylvania (August 2021–August 2022)
         - Damian Rene - Undergraduate, Swarthmore College (August 2021–August 2022)

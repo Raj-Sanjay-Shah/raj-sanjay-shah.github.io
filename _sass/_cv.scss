@@ -218,3 +218,60 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+
+/*****************************
+ * CV NESTED LIST styles
+ *****************************/
+.cv-nested-groups {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.cv-nested-group {
+  h5 {
+    margin: 0 0 0.75rem;
+    color: var(--global-text-color);
+    font-size: 0.95rem;
+    font-style: normal;
+    font-weight: 650;
+  }
+}
+
+.cv-nested-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  overflow: hidden;
+  gap: 1px;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.75rem;
+  background: var(--global-divider-color);
+}
+
+.cv-nested-item {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.85rem 1rem;
+  background: var(--global-bg-color);
+
+  strong {
+    color: var(--global-text-color);
+    font-size: 0.88rem;
+    line-height: 1.35;
+  }
+
+  span {
+    color: var(--global-text-color-light);
+    font-size: 0.78rem;
+    line-height: 1.45;
+  }
+}
+
+@media (max-width: 768px) {
+  .cv-nested-grid {
+    grid-template-columns: 1fr;
+  }
+}
