@@ -239,19 +239,29 @@
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
       {% if entry.code %}
-        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+        {% unless entry.code contains 'example.com' %}
+          <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+        {% endunless %}
       {% endif %}
       {% if entry.data %}
-        <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+        {% unless entry.data contains 'example.com' %}
+          <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+        {% endunless %}
       {% endif %}
       {% if entry.models %}
-        <a href="{{ entry.models }}" class="btn btn-sm z-depth-0" role="button">Models</a>
+        {% unless entry.models contains 'example.com' %}
+          <a href="{{ entry.models }}" class="btn btn-sm z-depth-0" role="button">Models</a>
+        {% endunless %}
       {% endif %}
       {% if entry.demo %}
-        <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+        {% unless entry.demo contains 'example.com' %}
+          <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+        {% endunless %}
       {% endif %}
       {% if entry.artifacts %}
-        <a href="{{ entry.artifacts }}" class="btn btn-sm z-depth-0" role="button">Artifacts</a>
+        {% unless entry.artifacts contains 'example.com' %}
+          <a href="{{ entry.artifacts }}" class="btn btn-sm z-depth-0" role="button">Artifacts</a>
+        {% endunless %}
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}

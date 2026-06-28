@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Ongoing Projects
-nav: true
+nav: false
 nav_order: 3
 ---
 

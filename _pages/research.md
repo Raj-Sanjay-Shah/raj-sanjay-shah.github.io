@@ -3,15 +3,17 @@ layout: page
 title: Research
 description: Research programs spanning safe NLP, cognition, and mental-health support.
 permalink: /research/
+nav: true
+nav_order: 1
 ---
 
 # Research
 
-My work clusters around three themes-Core NLP & Model Ops, AI ↔ Cognition, and AI for Mental Health-and these pages go deeper into each. The research page below summarizes the most current projects, the recent completions, pre-PhD work, and associated patents.
+My work clusters around three themes—Core NLP & Model Operations, AI ↔ Cognition, and AI for Mental Health. This page summarizes current projects, recent work, pre-PhD research, and associated patents.
 
 ## Ongoing projects
 
-- **Naïve Scientific Misconceptions in Large Language Models** - Investigating if and how LLMs internalize childish or naive theories, especially when primed with misleading data.
+- **Naïve Scientific Misconceptions in Large Language Models** - Investigating whether and how LLMs internalize intuitive but scientifically incorrect theories, especially when primed with misleading data.
 - **Understanding Graphical Perception in Data Visualization** - Extending the arXiv preprint ([2411.00257](https://arxiv.org/abs/2411.00257)) into a formal evaluation suite that compares human visual cognition to vision-language models and develops better prompts for graphs.
 - **AI Patient Bank** - Building state-based simulated patients grounded in therapeutic source texts and vetted via evidence-based testing (collaborators: Nathan Paek, William Fang, Hercy Shen, Declan Grabb, Emma Brunskill, Diyi Yang, Ryan Louie).
 - **Ask Before You Summarize: Clarification-Driven Summaries from Dialogue Transcripts** - Admission of uncertainty and clarification elicitations for richer automated summarization (with Han-Chin Shing, Lei Xu, Joseph Paul Cohen, Jack Moriarty, Chaitanya Shivade).
@@ -51,4 +53,4 @@ My work clusters around three themes-Core NLP & Model Ops, AI ↔ Cognition, and
 
 - **Guiding a user to interact with an intelligent computing system using best practices** (US20250196874A1).
 
-Want to explore a collaboration? Reach out on Discord or email-happy to connect over any of the themes above.
+For research collaborations or speaking invitations, please reach out by email.

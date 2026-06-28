@@ -7,14 +7,13 @@ first_name: Raj
 middle_name: S.
 last_name: Shah
 contact_note: >
-  I am always up for coffee and chat! Feel free to reach out to me at any time at rajsanjayshah@gmail.com
+  For research collaborations, speaking invitations, or student mentorship, email me at rajsanjayshah@gmail.com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student in Interactive Computing at Georgia Tech.
-footer_text: >
-  All opinions are my own. Site developed with OpenClaw. Work in progress.
+footer_text:
 keywords: LLMs for cognition, human-AI collaboration, cognitive science, Georgia Tech, Stanford NLP # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: raj_emoji.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🧠 # the emoji used as the favicon
 
 url: https://raj-sanjay-shah.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -91,8 +90,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Research Notes
+blog_description: Notes on language models, cognition, safety, and human-centered AI.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -121,24 +120,14 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname:
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -200,6 +189,9 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _projects/
+  - _teachings/
+  - assets/jupyter/
   - purgecss.config.js
   - README.md
   - readme_preview/

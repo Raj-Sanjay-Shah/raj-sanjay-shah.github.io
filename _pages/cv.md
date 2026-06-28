@@ -1,11 +1,11 @@
 ---
-
-## layout: cv
-
+layout: cv
 permalink: /cv/
-title: cv
+title: CV
+description: Curriculum vitae
 nav: true
-nav_order: 5
-cv_pdf: Raj_Shah_CV_2023_PhD.pdf # you can also use external links here
+nav_order: 4
+cv_pdf: /assets/pdf/Raj_Shah_CV_2026.pdf
 toc:
-sidebar: left
+  sidebar: left
+---

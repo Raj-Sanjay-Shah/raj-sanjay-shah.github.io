@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching & Mentoring
 description: Courses and workshops I’ve helped build.
 nav: true
-nav_order: 6
+nav_order: 3
 calendar: false
 ---
 

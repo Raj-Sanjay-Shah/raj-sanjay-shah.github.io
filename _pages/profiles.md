@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /people/
-title: collaborators
+title: Collaborators
 description: Friends, mentors, and co-authors who shape this work.
-nav: true
+nav: false
 nav_order: 7
 ---
 
