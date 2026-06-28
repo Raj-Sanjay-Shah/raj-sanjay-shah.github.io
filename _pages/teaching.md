@@ -114,9 +114,6 @@ calendar: false
         </article>
       </div>
 
-      <p class="mentorship-influences">
-        This philosophy is informed by the <a href="https://cicl.stanford.edu/research_values/">Causality in Cognition Lab’s research values</a> and Paul Pu Liang’s <a href="https://pliang279.github.io/papers/teaching_statement_paul_liang_2024.pdf">Teaching to Achieve Meta-learning</a>.
-      </p>
     </div>
   </section>
 
@@ -155,9 +152,5 @@ calendar: false
       </div>
     </div>
 
-    <aside class="mentorship-note">
-      <i class="fa-solid fa-graduation-cap" aria-hidden="true"></i>
-      <p>Student mentor and judge for Georgia Tech’s Undergraduate Research Opportunities Program (UROP).</p>
-    </aside>
   </section>
 </div>
