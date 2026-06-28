@@ -1,7 +1,15 @@
 ---
 ---
-<div class="row">
-  {% if site.enable_publication_thumbnails %}
+{% assign show_publication_thumbnails = site.enable_publication_thumbnails %}
+{% assign show_publication_badges = site.enable_publication_badges %}
+{% if page.publication_thumbnails == false %}
+  {% assign show_publication_thumbnails = false %}
+{% endif %}
+{% if page.publication_badges == false %}
+  {% assign show_publication_badges = false %}
+{% endif %}
+<div class="row publication-entry">
+  {% if show_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
@@ -46,7 +54,7 @@
   {% endif %}
 
   <!-- Entry bib key -->
-  <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+  <div id="{{ entry.key }}" class="{% if show_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
     <!-- Author -->
@@ -281,7 +289,7 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
-    {% if site.enable_publication_badges %}
+    {% if show_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
         {% assign entry_has_altmetric_badge = true %}
@@ -303,7 +311,7 @@
       {% endif %}
       {% if entry_has_altmetric_badge or entry_has_dimensions_badge or entry_has_google_scholar_badge or entry_has_inspirehep_badge %}
         <div class="badges">
-          {% if site.enable_publication_badges.altmetric and entry_has_altmetric_badge %}
+          {% if show_publication_badges.altmetric and entry_has_altmetric_badge %}
             <span
               class="altmetric-embed"
               data-badge-type="2"
@@ -323,7 +331,7 @@
               {% endif %}
             ></span>
           {% endif %}
-          {% if site.enable_publication_badges.dimensions and entry_has_dimensions_badge %}
+          {% if show_publication_badges.dimensions and entry_has_dimensions_badge %}
             <span
               class="__dimensions_badge_embed__"
               {% if entry.dimensions != blank and entry.dimensions != 'true' %}
@@ -338,7 +346,7 @@
               style="margin-bottom: 3px;"
             ></span>
           {% endif %}
-          {% if site.enable_publication_badges.google_scholar and entry_has_google_scholar_badge %}
+          {% if show_publication_badges.google_scholar and entry_has_google_scholar_badge %}
             <a
               href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user={{ site.data.socials.scholar_userid }}&citation_for_view={{ site.data.socials.scholar_userid }}:{{ entry.google_scholar_id }}"
               aria-label="Google Scholar link"
@@ -368,7 +376,7 @@
               >
             </a>
           {% endif %}
-          {% if site.enable_publication_badges.inspirehep and entry_has_inspirehep_badge %}
+          {% if show_publication_badges.inspirehep and entry_has_inspirehep_badge %}
             <a
               href="https://inspirehep.net/literature/{{ entry.inspirehep_id }}"
               aria-label="Inspirehep link"

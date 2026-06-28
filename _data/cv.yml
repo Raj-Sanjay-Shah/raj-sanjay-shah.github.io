@@ -7,118 +7,216 @@
       value: rajsanjayshah@gmail.com
     - name: Website
       value: https://raj-sanjay-shah.github.io
-    - name: Research Areas
-      value: LLM safety, cognitive modeling, AI for mental health
+    - name: Research Summary
+      value: PhD student in Interactive Computing at Georgia Tech working on natural language processing, evaluation, and robustness. My work spans benchmarking and domain adaptation, robust NLP methods, and human-centered applications supporting well-being.
     - name: Languages
-      value: English (native), Hindi (native), Gujarati (native), Marathi (professional), Sanskrit (intermediate)
+      value: English (native), Hindi (native), Gujarati (native), Marathi (expert), Sanskrit (intermediate)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Computer Science
-      institution: Georgia Institute of Technology · Interactive Computing
-      year: 2023 - Present
-      description:
-        - Advisor - Prof. Sashank Varma
-        - Focus on LLM safety, developmental alignment, and AI copilots for well-being.
-    - title: Visiting Student Researcher
-      institution: Stanford University · SALT Lab
-      year: 2024 - 2025
-      description:
-        - Host - Prof. Diyi Yang
-        - Joint projects on counselor coaching systems and unlearning brittleness.
-    - title: MS in Computer Science (Machine Learning)
       institution: Georgia Institute of Technology
-      year: 2021 - 2023
+      year: Aug 2023–Present
       description:
         - GPA 4.0 / 4.0
-        - Coursework in ML, NLP, and human-centered computing.
-    - title: BE in Computer Science + Minor in Data Science
-      institution: BITS Pilani, India
-      year: 2017 - 2021
+        - Advisor - Professor Sashank Varma
+    - title: Visiting Student Researcher
+      institution: Stanford University
+      year: May 2024–Sep 2025
       description:
-        - CGPA 8.54 (Major), 9.8 (Minor)
-        - Graduated with institute best-paper honors in Information Retrieval.
+        - Advisor - Professor Diyi Yang
+    - title: MS in Computer Science
+      institution: Georgia Institute of Technology
+      year: Aug 2021–May 2023
+      description:
+        - GPA 4.0 / 4.0
+        - Specialization in Machine Learning
+    - title: Bachelor of Engineering in Computer Science
+      institution: Birla Institute of Technology and Science, Pilani
+      year: Aug 2017–Jul 2021
+      description:
+        - CGPA 8.54 / 10
+        - Minor in Data Science, GPA 9.8 / 10
 
-- title: Experience
+- title: Employment
   type: time_table
   contents:
     - title: Applied Scientist Intern II
       institution: Amazon Science · Rufus
-      year: Summer 2025
+      year: May–Aug 2025
       description:
-        - Built clarification-driven dialogue summarization that detects missing info and auto-asks targeted questions.
-        - Reduced omission errors >25% across multi-domain transcripts.
+        - Developed a clarification-driven dialogue summarization framework that identifies information gaps and generates targeted questions to improve summary completeness and accuracy across clinical, legal, and customer-support conversations.
     - title: Applied Scientist Intern II
       institution: Amazon Science · HealthScribe
-      year: Summer 2024
+      year: May–Aug 2024
       description:
-        - Evaluated LLM note generation for behavioral therapy progress notes.
-        - Delivered quality metrics now embedded in AWS HealthScribe workflows.
-    - title: Sr. Research Software Engineer (AI)
+        - Assessed large language models for high-quality behavioral-therapy progress-note generation. Deployed in Amazon AWS.
+    - title: Sr. Research Software Engineer - AI
       institution: IBM Research · Human-Centered AI
-      year: Summer 2023
+      year: May–Aug 2023
       description:
-        - Ran user studies on calibrated human-AI collaboration for counseling support.
-        - Shipped full-stack tooling for real-time MI coaching experiments.
-    - title: Software Developer · ML Intern
+        - Explored intervention strategies for high-quality human-AI collaborative data creation.
+        - Built a full-stack application for user studies investigating appropriate reliance on AI agents using subtle real-time nudges.
+    - title: Software Developer - ML Intern
       institution: Epic Systems
-      year: Summer 2022
+      year: May–Aug 2022
       description:
-        - Modeled clinician workflows to surface relevant patient context in dashboards.
+        - Trained large language models to predict healthcare-provider workflow actions and surface relevant patient information in provider dashboards.
     - title: Software Development Intern
-      institution: JPMorgan Chase & Co.
-      year: Jan 2021 - Jun 2021
+      institution: JPMorgan Chase
+      year: Jan–Jun 2021
       description:
-        - Automated regression suites for the merchant onboarding platform.
+        - Developed automated testing scripts for the Merchant Services onboarding platform using Postman.
     - title: Research Intern
-      institution: Samsung R&D Institute India
-      year: Summer 2020
+      institution: Samsung R&D Institute, India
+      year: May–Jun 2020
       description:
-        - Built a bi-LSTM VAE to generate melodies/chords for the ringtone UX program.
+        - Developed a bidirectional LSTM-based variational autoencoder to generate melodies and chords for piano music for the UX Ringtone project.
 
-- title: Open Source & Community Projects
+- title: Awards
   type: time_table
   contents:
-    - title: BabyLM Challenge + Cognitive Batteries
-      year: 2023 - Present
-      description: Co-organizer of BabyLM workshops, released staged corpora, evaluation tooling, and dev-leaderboards.
-    - title: Counseling Copilot Suite
-      year: 2022 - Present
-      description: Open datasets + MI annotation guidelines powering LLM-based counselor practice sandboxes.
+    - title: Georgia Tech President’s Fellowship
+      institution: Georgia Institute of Technology
+      year: 2023–Present
+      description:
+        - Competitive doctoral fellowship recognizing academic excellence, with a stipend of $5,500 per academic year for three years.
+    - title: Marshall D. Williamson Fellowship Award
+      institution: Georgia Tech Student Honors Program
+      year: "2023"
+      description:
+        - Awarded to a well-rounded second-year Master’s student who embodies academic excellence and leadership.
+    - title: Donald V. Jackson Fellowship Award
+      institution: Georgia Tech Student Honors Program
+      year: "2022"
+      description:
+        - Awarded to a well-rounded first-year Master’s student who embodies academic excellence and leadership.
+    - title: Best Paper Award - Information Retrieval
+      institution: Birla Institute of Technology and Science, Pilani
+      year: "2021"
+      description:
+        - Awarded to a computer-science undergraduate for rigor in research and academics.
+    - title: Student Travel Grant
+      institution: Lalita and Ravindra Nath Foundation
+      year: "2022"
+      description:
+        - Awarded for travel to EMNLP 2022.
 
-- title: Honors and Awards
+- title: Leadership and Teaching Experience
   type: time_table
   contents:
-    - year: 2023
-      items:
-        - Georgia Tech President's Fellowship
-        - Marshall D. Williamson Fellowship (Honors Program)
-    - year: 2022
-      items:
-        - Donald V. Jackson Fellowship (Honors Program)
-        - LRN Foundation Student Travel Grant (EMNLP)
-    - year: 2021
-      items:
-        - BITS Pilani Best Paper Award - Information Retrieval
+    - title: CS 6795 - Introduction to Cognitive Science
+      institution: Georgia Institute of Technology
+      year: Spring 2025, Fall 2025, Spring 2026
+      description:
+        - Teaching Assistant
+    - title: CS 7641 - Human and Machine Learning
+      institution: Georgia Institute of Technology
+      year: Fall 2025, Fall 2023
+      description:
+        - Graduate Teaching Assistant - Professor Sashank Varma
+        - Created homework and assignments and assisted students with capstone projects.
+    - title: CS 3790 - Introduction to Cognitive Science
+      institution: Georgia Institute of Technology
+      year: Spring 2024, Spring 2023
+      description:
+        - Graduate Teaching Assistant - Professor Sashank Varma
+        - Created homework and assignments.
+    - title: CS 4650 - Natural Language Processing
+      institution: Georgia Institute of Technology
+      year: Fall 2022
+      description:
+        - Graduate Teaching Assistant - Professor Alan Ritter
+        - Created coding exercises for hands-on NLP experience.
+    - title: CS F469 - Information Retrieval
+      institution: Birla Institute of Technology and Science, Pilani
+      year: Fall 2020
+      description:
+        - Undergraduate Teaching Assistant - Professor Vinti Agarwal
+        - Created a term-paper-based assignment to promote student exposure to research.
+    - title: Academic Counselling Cell
+      institution: Birla Institute of Technology and Science, Pilani
+      year: Fall 2019
+      description:
+        - Undergraduate Teaching Assistant - Professor Sangeeta Sharma
+        - Planned mentorship programs, development seminars, and community-building activities.
 
-- title: Academic Interests
+- title: Ongoing Research Projects
+  type: time_table
+  contents:
+    - title: Cognitive Architecture Lab
+      institution: Georgia Institute of Technology · Professor Sashank Varma
+      year: Jan 2026–Present
+      description:
+        - Towards a Foundation Model for Cognition
+        - On the Use of Foundation Models for Cognitive Science
+    - title: SALT Lab
+      institution: Stanford University / Georgia Institute of Technology · Professor Diyi Yang
+      year: Sep 2025–Present
+      description:
+        - Simulating AI Patients for Psychotherapy - Challenges and Opportunities
+
+- title: Service
+  type: time_table
+  contents:
+    - title: Student Ombudsperson
+      institution: Interactive Computing, Georgia Institute of Technology
+      year: Current
+      description:
+        - Serve as a student resource and neutral third party for PhD students with concerns involving faculty, staff, or the PhD program.
+    - title: Conference Reviewer
+      description:
+        - Association for Computational Linguistics Rolling Review - 2024, 2025, 2026
+        - Cognitive Science Society - 2025, 2026
+        - International Conference on Machine Learning - 2026
+        - ACM Conference on Computer-Supported Cooperative Work and Social Computing - 2023, 2024, 2025
+        - ACM CHI Conference on Human Factors in Computing Systems - 2023, 2025
+        - Empirical Methods in Natural Language Processing, Computational Social Science and Cultural Analytics Track - 2022
+        - IEEE Big Data - 2021
+    - title: Student Volunteer
+      description:
+        - Advances in Cognitive Systems - 2025
+        - ACM Conference on Computer-Supported Cooperative Work and Social Computing - 2021, 2022
+        - Annual Meeting of the Association for Computational Linguistics - 2021
+
+- title: Mentorship
   type: nested_list
   contents:
-    - title: LLM Safety & Control
+    - title: Current and recent student collaborators
       items:
-        - Unlearning, watermarking, continual learning
-        - Stress-testing model behavior in applied settings
-    - title: Cognitive Alignment of PLMs
+        - Ifdita Hasan Orney - Undergraduate senior, Stanford University (August 2024–present)
+        - Jenna Kang - PhD student, New York University (August 2024–present)
+        - Harsh Lalai - Undergraduate, BITS Pilani (July 2023–present)
+        - James Jun - MS CS, Georgia Tech (January 2024–present)
+        - Keane Zhang - MS CS, Georgia Tech (August 2025–present)
+        - Khushi Bhardwaj - BS, Georgia Tech (August 2022–May 2024); Research Scientist at NVIDIA
+        - Austin Peng - MS CS, Georgia Tech (January 2024–May 2024)
+        - Siddhant Narang - MS CS, Georgia Tech (January 2024–May 2024); Senior Software Engineer at BlackRock
+        - Xianle Feng - MS CS, Georgia Tech (January 2024–May 2024)
+        - Andrew Li - MS CS, Georgia Tech (January 2024–May 2024)
+        - Om Bhatt - MS CS, Georgia Tech (January 2024–May 2024)
+        - Dhyan Gandhi - MS CS, Georgia Tech (January 2024–May 2024); Software Engineer at Amazon
+        - Mihir Sharma - BS/MS CS, Georgia Tech (January 2024–May 2024); Research Engineer at NVIDIA
+        - Ziyuan Cao - MS CS, Georgia Tech (January 2024–May 2024); PhD student at Ohio State University
+        - Arpan Parikh - MS CS, Georgia Tech (January 2024–May 2024)
+        - Atith Gandhi - MS CS, Georgia Tech (January 2023–May 2024); Software Engineer at Oracle
+        - Ananjan Nandi - MS CS, Stanford University (August 2023–May 2024); PhD student at Stanford University
+        - Cheng Chang - MS CS, Stanford University (August 2023–May 2024); Software Engineer at Google
+    - title: Past student collaborators
       items:
-        - Developmentally staged corpora
-        - Linking hypotheses between psych signatures and model activations
-    - title: AI for Mental Health Support
+        - Siddhartha Vemuri - MS CS, Georgia Tech (January 2023–August 2023)
+        - Jason Liu - Undergraduate, University of Pennsylvania (August 2021–August 2022)
+        - Damian Rene - Undergraduate, Swarthmore College (August 2021–August 2022)
+    - title: Additional mentorship
       items:
-        - Counselor copilots and reflective practice
-        - Evaluation protocols for therapy documentation
+        - Student mentor and judge for Georgia Tech’s Undergraduate Research Opportunities Program (UROP)
 
-- title: Other Interests
+- title: Spoken Languages
   type: list
   contents:
-    - <u>Hobbies:</u> Long-form storytelling, running Atlanta’s beltline trails, mentoring undergraduate researchers.
+    - English - Native proficiency
+    - Hindi - Native proficiency
+    - Gujarati - Native proficiency
+    - Marathi - Expert proficiency
+    - Sanskrit - Intermediate proficiency

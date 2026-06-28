@@ -1526,3 +1526,106 @@ figure.cover {
 mjx-container[jax="CHTML"][display="true"] {
   overflow-x: auto;
 }
+
+
+// Text-first publication list
+.publication-list {
+  margin-top: 2.5rem;
+
+  h2.bibliography {
+    margin: 2.75rem 0 1rem;
+    padding: 0 0 0.55rem;
+    border-top: 0;
+    border-bottom: 1px solid var(--global-divider-color);
+    color: var(--global-text-color);
+    font-size: 1.35rem;
+    font-weight: 650;
+    text-align: left;
+  }
+
+  ol.bibliography > li { margin-bottom: 0.85rem; }
+
+  .publication-entry {
+    position: relative;
+    margin: 0;
+    padding: 1.15rem 1.25rem 1.05rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.75rem;
+    background: var(--global-bg-color);
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+
+    &:hover {
+      transform: translateY(-1px);
+      border-color: var(--global-theme-color);
+      box-shadow: 0 0.5rem 1.35rem rgba(0, 0, 0, 0.055);
+    }
+
+    > [id] {
+      flex: 0 0 100%;
+      max-width: 100%;
+      padding: 0;
+    }
+
+    .abbr, .preview, .badges img { display: none !important; }
+
+    .title {
+      margin-bottom: 0.35rem;
+      font-size: 1.02rem;
+      font-weight: 650;
+      line-height: 1.45;
+    }
+
+    .author {
+      color: var(--global-text-color-light);
+      font-size: 0.86rem;
+      line-height: 1.55;
+
+      > em {
+        color: var(--global-text-color);
+        font-weight: 650;
+      }
+    }
+
+    .periodical {
+      margin-top: 0.25rem;
+      color: var(--global-text-color-light);
+      font-size: 0.82rem;
+      line-height: 1.5;
+    }
+
+    .periodical:empty { display: none; }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin-top: 0.75rem;
+
+      a.btn {
+        margin: 0;
+        padding: 0.2rem 0.6rem;
+        border-color: var(--global-divider-color);
+        border-radius: 999px;
+        background: transparent;
+        font-size: 0.72rem;
+        font-weight: 600;
+        line-height: 1.35;
+        text-transform: none;
+      }
+    }
+
+    .hidden.open {
+      margin-top: 0.9rem;
+      padding-top: 0.9rem;
+      border-top: 1px solid var(--global-divider-color);
+    }
+  }
+}
+
+@media (max-width: 576px) {
+  .publication-list .publication-entry {
+    padding: 1rem;
+
+    .title { font-size: 0.96rem; }
+  }
+}
