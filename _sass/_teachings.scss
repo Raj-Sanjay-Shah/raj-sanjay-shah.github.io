@@ -319,3 +319,70 @@
   .project-subgrid, .course-card-grid, .people-grid { grid-template-columns: 1fr; }
   .course-role { min-height: 0; }
 }
+
+
+/*****************************
+ * Mentorship statement styles
+ *****************************/
+.mentorship-philosophy {
+  padding: 1.5rem;
+  border: 1px solid var(--academic-border);
+  border-radius: 0.9rem;
+  background: var(--academic-card-bg);
+  box-shadow: 0 0.45rem 1.4rem rgba(0, 0, 0, 0.04);
+
+  > p {
+    color: var(--global-text-color-light);
+    line-height: 1.7;
+  }
+}
+
+.mentorship-statement-lead {
+  margin-top: 0;
+  color: var(--global-text-color) !important;
+  font-size: 1.03rem;
+}
+
+.mentorship-principles {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.mentorship-principle {
+  padding: 1.15rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.7rem;
+  background: var(--global-bg-color);
+
+  h3 {
+    margin: 0 0 0.65rem;
+    color: var(--global-theme-color);
+    font-size: 1rem;
+  }
+
+  p {
+    margin: 0;
+    color: var(--global-text-color-light);
+    font-size: 0.86rem;
+    line-height: 1.65;
+  }
+
+  p + p {
+    margin-top: 0.65rem;
+  }
+}
+
+.mentorship-influences {
+  margin: 1.25rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--global-divider-color);
+  font-size: 0.75rem;
+}
+
+@media (max-width: 768px) {
+  .mentorship-principles {
+    grid-template-columns: 1fr;
+  }
+}
