@@ -241,6 +241,18 @@
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {% endif %}
+      {% if entry.data %}
+        <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button">Data</a>
+      {% endif %}
+      {% if entry.models %}
+        <a href="{{ entry.models }}" class="btn btn-sm z-depth-0" role="button">Models</a>
+      {% endif %}
+      {% if entry.demo %}
+        <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+      {% endif %}
+      {% if entry.artifacts %}
+        <a href="{{ entry.artifacts }}" class="btn btn-sm z-depth-0" role="button">Artifacts</a>
+      {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
           <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
