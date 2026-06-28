@@ -25,6 +25,12 @@ calendar: false
 
 - **Spring 2024 and Spring 2023:** Created homework and assignments for the course.
 
+#### CS 6795: Introduction to Cognitive Science
+
+**Teaching Assistant**
+
+- **Spring 2025, Fall 2025, and Spring 2026**
+
 #### CS 4650: Natural Language Processing
 
 **Graduate Teaching Assistant · Professor Alan Ritter**
