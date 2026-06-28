@@ -69,7 +69,7 @@ calendar: false
     </div>
 
     <div class="mentorship-group">
-      <h3>Current and recent</h3>
+      <h3>Student mentorship</h3>
       <div class="people-grid">
         <article class="mentee-card"><h4>Ifdita Hasan Orney</h4><p>Undergraduate senior · Stanford University</p><span>August 2024–present</span></article>
         <article class="mentee-card"><h4>Jenna Kang</h4><p>PhD student · New York University</p><span>August 2024–present</span></article>
@@ -89,12 +89,7 @@ calendar: false
         <article class="mentee-card"><h4>Atith Gandhi</h4><p>MS CS · Georgia Tech</p><span>January 2023–May 2024</span><p class="next-role">Software Engineer at Oracle</p></article>
         <article class="mentee-card"><h4>Ananjan Nandi</h4><p>MS CS · Stanford University</p><span>August 2023–May 2024</span><p class="next-role">PhD student at Stanford University</p></article>
         <article class="mentee-card"><h4>Cheng Chang</h4><p>MS CS · Stanford University</p><span>August 2023–May 2024</span><p class="next-role">Software Engineer at Google</p></article>
-      </div>
-    </div>
 
-    <div class="mentorship-group">
-      <h3>Past collaborators</h3>
-      <div class="people-grid">
         <article class="mentee-card"><h4>Siddhartha Vemuri</h4><p>MS CS · Georgia Tech</p><span>January 2023–August 2023</span></article>
         <article class="mentee-card"><h4>Jason Liu</h4><p>Undergraduate · University of Pennsylvania</p><span>August 2021–August 2022</span></article>
         <article class="mentee-card"><h4>Damian Rene</h4><p>Undergraduate · Swarthmore College</p><span>August 2021–August 2022</span></article>
