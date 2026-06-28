@@ -71,17 +71,17 @@ calendar: false
     <div class="mentorship-group">
       <h3>Student mentorship</h3>
       <div class="people-grid">
-        <article class="mentee-card"><h4>Ifdita Hasan Orney</h4><p>Undergraduate senior · Stanford University</p><span>August 2024–present</span></article>
+        <article class="mentee-card"><h4>Ifdita Hasan Orney</h4><p>Master’s student · Stanford University</p><span>August 2024–present</span></article>
         <article class="mentee-card"><h4>Jenna Kang</h4><p>PhD student · New York University</p><span>August 2024–present</span></article>
-        <article class="mentee-card"><h4>Harsh Lalai</h4><p>Undergraduate · BITS Pilani</p><span>July 2023–present</span></article>
-        <article class="mentee-card"><h4>James Jun</h4><p>MS CS · Georgia Tech</p><span>January 2024–present</span></article>
+        <article class="mentee-card"><h4>Harsh Lalai</h4><p>Undergraduate · BITS Pilani</p><span>July 2023–present</span><p class="next-role">Incoming PhD student at Johns Hopkins University</p></article>
+        <article class="mentee-card"><h4>James Jun</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2025</span><p class="next-role">AI/ML Research Engineer at Georgia Tech Research Institute</p></article>
         <article class="mentee-card"><h4>Keane Zhang</h4><p>MS CS · Georgia Tech</p><span>August 2025–present</span></article>
         <article class="mentee-card"><h4>Khushi Bhardwaj</h4><p>BS · Georgia Tech</p><span>August 2022–May 2024</span><p class="next-role">Research Scientist at NVIDIA</p></article>
-        <article class="mentee-card"><h4>Austin Peng</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span></article>
+        <article class="mentee-card"><h4>Austin Peng</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">Machine Learning Engineer at Workday</p></article>
         <article class="mentee-card"><h4>Siddhant Narang</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">Senior Software Engineer at BlackRock</p></article>
-        <article class="mentee-card"><h4>Xianle Feng</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span></article>
-        <article class="mentee-card"><h4>Andrew Li</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span></article>
-        <article class="mentee-card"><h4>Om Bhatt</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span></article>
+        <article class="mentee-card"><h4>Xianle Feng</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">PhD student at George Mason University</p></article>
+        <article class="mentee-card"><h4>Andrew Li</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">Robotics Software Engineer at Sandia National Laboratories</p></article>
+        <article class="mentee-card"><h4>Om Bhatt</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">Research Technician and Lab Manager at the Relational Cognition Lab</p></article>
         <article class="mentee-card"><h4>Dhyan Gandhi</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">Software Engineer at Amazon</p></article>
         <article class="mentee-card"><h4>Mihir Sharma</h4><p>BS/MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">Research Engineer at NVIDIA</p></article>
         <article class="mentee-card"><h4>Ziyuan Cao</h4><p>MS CS · Georgia Tech</p><span>January 2024–May 2024</span><p class="next-role">PhD student at Ohio State University</p></article>

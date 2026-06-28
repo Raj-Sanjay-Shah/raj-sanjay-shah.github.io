@@ -275,3 +275,53 @@ ul.timeline li::before {
     grid-template-columns: 1fr;
   }
 }
+
+
+/*****************************
+ * CV DATE GRID styles
+ *****************************/
+.cv-time-row {
+  display: grid;
+  grid-template-columns: minmax(9rem, 11rem) minmax(0, 1fr);
+  align-items: start;
+  gap: 1.5rem;
+}
+
+.cv-time-row-without-date {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.cv-time-date,
+.cv-time-content {
+  min-width: 0;
+}
+
+.cv-time-badge {
+  display: block;
+  width: 100%;
+  padding: 0.4rem 0.55rem;
+  line-height: 1.35;
+  white-space: normal;
+}
+
+.cv-time-content {
+  padding-top: 0.1rem;
+
+  .title {
+    margin: 0 0 0.35rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .cv-time-row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.65rem;
+  }
+
+  .cv-time-badge {
+    display: inline-block;
+    width: auto;
+    max-width: 100%;
+    text-align: left;
+  }
+}
