@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research",
           title: "Research",
-          description: "Research programs spanning safe NLP, cognition, and mental-health support.",
+          description: "Current research projects in cognitive modeling and AI for mental health.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching-amp-mentoring",
           title: "Teaching &amp; Mentoring",
-          description: "Courses and workshops I’ve helped build.",
+          description: "Teaching experience and student mentorship at Georgia Tech and BITS Pilani.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
