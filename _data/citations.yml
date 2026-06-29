@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   mpGOJ0gAAAAJ:-f6ydRqryjwC:
     citations: 12
@@ -26,11 +26,11 @@ papers:
     title: 'From intentions to techniques: A comprehensive taxonomy and challenges in text watermarking for large language models'
     year: '2025'
   mpGOJ0gAAAAJ:IWHjjKOFINEC:
-    citations: 13
+    citations: 14
     title: Development of cognitive intelligence in pre-trained language models
     year: '2024'
   mpGOJ0gAAAAJ:Se3iqnhoufwC:
-    citations: 26
+    citations: 27
     title: Numeric Magnitude Comparison Effects in Large Language Models
     year: '2023'
   mpGOJ0gAAAAJ:ULOm3_A8WrAC:
@@ -38,7 +38,7 @@ papers:
     title: Multi-level feedback generation with large language models for empowering novice peer counselors
     year: '2024'
   mpGOJ0gAAAAJ:Y0pCki6q_DkC:
-    citations: 77
+    citations: 78
     title: Modeling motivational interviewing strategies on an online peer-to-peer counseling platform
     year: '2022'
   mpGOJ0gAAAAJ:YFjsv_pBGBYC:
@@ -46,19 +46,19 @@ papers:
     title: 'The unlearning mirage: A dynamic framework for evaluating LLM unlearning'
     year: '2026'
   mpGOJ0gAAAAJ:YsMSGLbcyi4C:
-    citations: 21
+    citations: 22
     title: 'Metrics for peer counseling: triangulating success outcomes for online therapy platforms'
     year: '2023'
   mpGOJ0gAAAAJ:ZeXyd9-uunAC:
-    citations: 123
+    citations: 127
     title: 'LLMs assist NLP researchers: Critique paper (meta-) reviewing'
     year: '2024'
   mpGOJ0gAAAAJ:aqlVkmm33-oC:
-    citations: 8
+    citations: 9
     title: How well do deep learning models capture human concepts? the case of the typicality effect
     year: '2024'
   mpGOJ0gAAAAJ:blknAaTinKkC:
-    citations: 5
+    citations: 6
     title: 'The World According to LLMs: How Geographic Origin Influences LLMs'' Entity Deduction Capabilities'
     year: '2025'
   mpGOJ0gAAAAJ:dhFuZR0502QC:
@@ -90,7 +90,7 @@ papers:
     title: 'Incremental comprehension of garden-path sentences by large language models: Semantic interpretation, syntactic re-analysis, and attention'
     year: '2024'
   mpGOJ0gAAAAJ:r0BpntZqJG4C:
-    citations: 23
+    citations: 25
     title: Can llm-simulated practice and feedback upskill human counselors? a randomized study with 90+ novice counselors
     year: '2026'
   mpGOJ0gAAAAJ:rO6llkc54NcC:
